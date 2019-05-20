@@ -222,6 +222,9 @@
     <Compile Include="Assets\WFrameWork\3.导出UnityPackage\ExportPackage.cs" />
     <Compile Include="Assets\WFrameWork\4.打开所在文件夹\OpenTargetFloder.cs" />
     <Compile Include="Assets\WFrameWork\5.MenuItem复用\MenuItemReuse.cs" />
+    <Compile Include="Assets\WFrameWork\6.示例提取成方法\PreviousFunction.cs" />
+    <Compile Include="Assets\WFrameWork\7.屏幕宽高比适配\NewBehaviourScript.cs" />
+    <Compile Include="Assets\WFrameWork\8.TransForm赋值优化\TransformLocalPositionSimplify.cs" />
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>

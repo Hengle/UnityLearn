@@ -24,6 +24,15 @@
         <e p="5.MenuItem复用" t="Include">
           <e p="MenuItemReuse.cs" t="Include" />
         </e>
+        <e p="6.示例提取成方法" t="Include">
+          <e p="PreviousFunction.cs" t="Include" />
+        </e>
+        <e p="7.屏幕宽高比适配" t="Include">
+          <e p="NewBehaviourScript.cs" t="Include" />
+        </e>
+        <e p="8.TransForm赋值优化" t="Include">
+          <e p="TransformLocalPositionSimplify.cs" t="Include" />
+        </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />

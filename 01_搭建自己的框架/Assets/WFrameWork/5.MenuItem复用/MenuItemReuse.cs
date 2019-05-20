@@ -5,16 +5,17 @@ using UnityEngine;
 
 #endif
 
-public class MenuItemReuse 
+namespace WFrameWork
 {
-    #if UNITY_EDITOR
-    [MenuItem("WFrameWork/5.MenuItem复用")]
-    private static void MenuItemReuseTest()
+    public class MenuItemReuse
     {
-        
-        EditorApplication.ExecuteMenuItem("WFrameWork/3.导出WFrameWork为UnityPackage");
-        Application.OpenURL("file://" + Path.Combine(Application.dataPath, "../"));
-    }
+#if UNITY_EDITOR
+        [MenuItem("WFrameWork/5.MenuItem复用 %e")]
+        private static void MenuItemReuseTest()
+        {
+            EditorApplication.ExecuteMenuItem("WFrameWork/3.导出WFrameWork为UnityPackage");
+            Application.OpenURL("file://" + Path.Combine(Application.dataPath, "../"));
+        }
 #endif
-    
+    }
 }

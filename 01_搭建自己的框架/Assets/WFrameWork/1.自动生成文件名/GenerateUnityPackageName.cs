@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace WFrameWork
 {
-    public class GenerateUnityPackageName : MonoBehaviour
+    public class GenerateUnityPackageName
     {
 #if UNITY_EDITOR
         [MenuItem("WFrameWork/1.生成UnityPacakge 名字")]
