@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\64349\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\64349\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_01_搭建自己的框架.356024391.00" t="ExcludeRecursive" />
-    <e p="F:\Resprobility\UnityLearn\01_搭建自己的框架" t="IncludeRecursive">
+    <e p="C:\Users\Administrator\.Rider2018.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2018.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_01_搭建自己的框架.1636116368.00" t="ExcludeRecursive" />
+    <e p="F:\GitHubRepository\UnityLearn\01_搭建自己的框架" t="IncludeRecursive">
       <e p="01_搭建自己的框架.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
-      <e p="Assets" t="Include">
-        <e p="WFrameWork" t="Include">
-          <e p="1.自动生成文件名" t="Include">
-            <e p="GenerateUnityPackageName.cs" t="Include" />
-          </e>
+      <e p="Assets\WFrameWork" t="Include">
+        <e p="1.自动生成文件名" t="Include">
+          <e p="GenerateUnityPackageName.cs" t="Include" />
+        </e>
+        <e p="2.文本复制到剪贴板" t="Include">
+          <e p="CopyText2ClipBoard.cs" t="Include" />
+        </e>
+        <e p="3.导出UnityPackage" t="Include">
+          <e p="ExportPackage.cs" t="Include" />
+        </e>
+        <e p="4.打开所在文件夹" t="Include">
+          <e p="OpenTargetFloder.cs" t="Include" />
+        </e>
+        <e p="5.MenuItem复用" t="Include">
+          <e p="MenuItemReuse.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
