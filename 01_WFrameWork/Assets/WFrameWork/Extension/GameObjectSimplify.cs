@@ -2,7 +2,7 @@
 
 namespace WFrameWork
 {
-    public class GameObjectSimplify
+    public partial class GameObjectSimplify
     {
         public static void Show(GameObject gameObject)
         {

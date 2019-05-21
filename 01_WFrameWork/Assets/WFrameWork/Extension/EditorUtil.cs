@@ -1,5 +1,4 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 #if UNITY_EDITOR
 using UnityEditor;
 
@@ -8,10 +7,8 @@ using UnityEditor;
 
 namespace WFrameWork
 {
-    public class EditorUtil
+    public partial class EditorUtil
     {
-     
-
         public static void CopyText2Clip(string text)
         {
             GUIUtility.systemCopyBuffer = text;
@@ -22,5 +19,11 @@ namespace WFrameWork
             Application.OpenURL("file://" + path);
         }
 
+#if UNITY_EDITOR
+        public static void CallMenuItem(string menuPath)
+        {
+            EditorApplication.ExecuteMenuItem(menuPath);
+        }
+#endif
     }
 }

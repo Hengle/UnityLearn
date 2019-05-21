@@ -5,7 +5,7 @@ namespace WFrameWork
 {
     public class Exporter
     {
-        public static string GeneratepaPackageName()
+        private static string GeneratepaPackageName()
         {
             return "WFrameWork_" + DateTime.Now.ToString("yyyy_MMdd_HH");
         }
@@ -14,11 +14,6 @@ namespace WFrameWork
         {
             AssetDatabase.ExportPackage("Assets/WFrameWork", GeneratepaPackageName() + ".unitypackage",
                 ExportPackageOptions.Recurse);
-        }
-
-        public static void CallMenuItem(string menuPath)
-        {
-            EditorApplication.ExecuteMenuItem(menuPath);
         }
 #endif
     }

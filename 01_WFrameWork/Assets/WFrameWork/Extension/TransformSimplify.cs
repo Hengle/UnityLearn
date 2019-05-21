@@ -3,7 +3,7 @@
 
 namespace WFrameWork
 {
-    public class TransformSimplify
+    public partial class TransformSimplify
     {
         public static void SetLocalPosX(Transform transform, float x)
         {
