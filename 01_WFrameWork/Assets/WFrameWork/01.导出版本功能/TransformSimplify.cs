@@ -1,22 +1,10 @@
-﻿#if UNITY_EDITOR
-using UnityEngine;
-using UnityEditor;
+﻿using UnityEngine;
 
-#endif
 
 namespace WFrameWork
 {
     public class TransformSimplify
     {
-#if UNITY_EDITOR
-        [MenuItem("WFrameWork/03.Transform位置简化")]
-#endif
-        private static void MenuClicked()
-        {
-            var gameObject = new GameObject();
-            SetLocalPosX(gameObject.transform, 5.0f);
-        }
-
         public static void SetLocalPosX(Transform transform, float x)
         {
             var localPos = transform.localPosition;
@@ -65,7 +53,7 @@ namespace WFrameWork
             localPos.z = z;
             transform.localPosition = localPos;
         }
-        
+
         public static void Identity(Transform transform)
         {
             transform.localPosition = Vector3.zero;
