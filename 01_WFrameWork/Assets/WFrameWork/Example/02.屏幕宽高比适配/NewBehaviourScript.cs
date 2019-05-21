@@ -9,7 +9,7 @@ namespace WFrameWork
     public class ScreenJudge01
     {
 #if UNITY_EDITOR
-        [MenuItem("WFrameWork/02.屏幕相关/1.屏幕宽高比判断")]
+        [MenuItem("WFrameWork/02.屏幕相关/1.屏幕宽高比判断" , false, 2)]
 #endif
         private static void MenuClicked()
         {
@@ -20,7 +20,7 @@ namespace WFrameWork
 
 
         /// <summary>
-        ///     判断是否是横屏
+        /// 判断是否是横屏
         /// </summary>
         /// <returns>true: 横屏  false:竖屏</returns>
         public static bool JudgeScreen()
