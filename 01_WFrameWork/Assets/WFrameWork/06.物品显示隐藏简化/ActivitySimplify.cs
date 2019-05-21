@@ -8,7 +8,7 @@ namespace WFrameWork
     public class ActivitySimplify
     {
 #if UNITY_EDITOR
-        [MenuItem("WFrameWork/11.GameObject active简化")]
+        [MenuItem("WFrameWork/06.GameObject active简化")]
 #endif
         private static void MenuClicked()
         {

@@ -8,7 +8,7 @@ namespace WFrameWork
     public class ProbabilityFunc
     {
 #if UNITY_EDITOR
-        [MenuItem("WFrameWork/10.随机概率函数")]
+        [MenuItem("WFrameWork/05.随机概率函数")]
 #endif
         private static void MenuClicked()
         {

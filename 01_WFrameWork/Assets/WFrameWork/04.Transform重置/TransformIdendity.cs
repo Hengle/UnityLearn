@@ -9,7 +9,7 @@ namespace WFrameWork
 {
     public class TransformIdendity
     {
-        [MenuItem("WFrameWork/09.Transform重置")]
+        [MenuItem("WFrameWork/04.Transform重置")]
         private static void MenuClicked()
         {
             var gameObject = new GameObject();

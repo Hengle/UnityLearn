@@ -217,17 +217,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\WFrameWork\1.自动生成文件名\GenerateUnityPackageName.cs" />
-    <Compile Include="Assets\WFrameWork\10.概率函数\ProbabilityFunc.cs" />
-    <Compile Include="Assets\WFrameWork\11.物品显示隐藏简化\ActivitySimplify.cs" />
-    <Compile Include="Assets\WFrameWork\2.文本复制到剪贴板\CopyText2ClipBoard.cs" />
-    <Compile Include="Assets\WFrameWork\3.导出UnityPackage\ExportPackage.cs" />
-    <Compile Include="Assets\WFrameWork\4.打开所在文件夹\OpenTargetFloder.cs" />
-    <Compile Include="Assets\WFrameWork\5.MenuItem复用\MenuItemReuse.cs" />
-    <Compile Include="Assets\WFrameWork\6.示例提取成方法\PreviousFunction.cs" />
-    <Compile Include="Assets\WFrameWork\7.屏幕宽高比适配\NewBehaviourScript.cs" />
-    <Compile Include="Assets\WFrameWork\8.TransForm赋值优化\TransformLocalPositionSimplify.cs" />
-    <Compile Include="Assets\WFrameWork\9.Transform重置\TransformIdendity.cs" />
+    <Compile Include="Assets\WFrameWork\01.导出版本功能\PreviousFunction.cs" />
+    <Compile Include="Assets\WFrameWork\02.屏幕宽高比适配\NewBehaviourScript.cs" />
+    <Compile Include="Assets\WFrameWork\03.TransForm赋值优化\TransformLocalPositionSimplify.cs" />
+    <Compile Include="Assets\WFrameWork\04.Transform重置\TransformIdendity.cs" />
+    <Compile Include="Assets\WFrameWork\05.概率函数\ProbabilityFunc.cs" />
+    <Compile Include="Assets\WFrameWork\06.物品显示隐藏简化\ActivitySimplify.cs" />
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>
