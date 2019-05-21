@@ -1,7 +1,8 @@
 ﻿#if UNITY_EDITOR
-using UnityEditor;
-#endif
 using UnityEngine;
+using UnityEditor;
+
+#endif
 
 namespace WFrameWork
 {
@@ -10,17 +11,59 @@ namespace WFrameWork
 #if UNITY_EDITOR
         [MenuItem("WFrameWork/03.Transform位置简化")]
 #endif
-        static void MenuClicked()
+        private static void MenuClicked()
         {
-            GameObject gameObject = new GameObject();
+            var gameObject = new GameObject();
             SetLocalPosX(gameObject.transform, 5.0f);
         }
 
         public static void SetLocalPosX(Transform transform, float x)
         {
-            var localposition = transform.localPosition;
-            localposition.x = x;
-            transform.localPosition = localposition;
+            var localPos = transform.localPosition;
+            localPos.x = x;
+            transform.localPosition = localPos;
+        }
+
+        public static void SetLocalPosY(Transform transform, float y)
+        {
+            var localPos = transform.localPosition;
+            localPos.y = y;
+            transform.localPosition = localPos;
+        }
+
+        public static void SetLocalPosZ(Transform transform, float z)
+        {
+            var localPos = transform.localPosition;
+            localPos.z = z;
+            transform.localPosition = localPos;
+        }
+
+        public static void SetLocalPosXY(Transform transform, float x, float
+            y)
+        {
+            var localPos = transform.localPosition;
+            localPos.x = x;
+            localPos.y = y;
+            transform.localPosition = localPos;
+        }
+
+        public static void SetLocalPosXZ(Transform transform, float x, float
+            z)
+        {
+            var localPos = transform.localPosition;
+            localPos.x = x;
+            localPos.z = z;
+            transform.localPosition = localPos;
+        }
+
+        public static void SetLocalPosYZ(Transform transform, float y, float
+            z)
+
+        {
+            var localPos = transform.localPosition;
+            localPos.y = y;
+            localPos.z = z;
+            transform.localPosition = localPos;
         }
     }
 }
