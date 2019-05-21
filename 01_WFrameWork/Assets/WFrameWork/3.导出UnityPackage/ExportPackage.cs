@@ -10,7 +10,7 @@ namespace WFrameWork
     public class ExportPackage
     {
 #if UNITY_EDITOR
-        [MenuItem("WFrameWork/3.导出WFrameWork为UnityPackage")]
+        [MenuItem("WFrameWork/03.导出WFrameWork为UnityPackage")]
         private static void MenuClicked()
         {
 //            Debug.Log(Application.);

@@ -9,7 +9,7 @@ namespace WFrameWork
     public class CopyText2ClipBoard
     {
 #if UNITY_EDITOR
-        [MenuItem("WFrameWork/2.复制文本到剪贴板")]
+        [MenuItem("WFrameWork/02.复制文本到剪贴板")]
 #endif
         private static void MenuClicked()
         {

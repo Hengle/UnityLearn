@@ -8,7 +8,7 @@ namespace WFrameWork
     public class TransformLocalPositionSimplify
     {
 #if UNITY_EDITOR
-        [MenuItem("WFrameWork/8.Transform位置简化")]
+        [MenuItem("WFrameWork/08.Transform位置简化")]
 #endif
         static void MenuClicked()
         {

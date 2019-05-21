@@ -8,7 +8,7 @@ namespace WFrameWork
     public class ScreenJudge01
     {
 #if UNITY_EDITOR
-        [MenuItem("WFrameWork/7.屏幕相关/1.屏幕宽高比判断")]
+        [MenuItem("WFrameWork/07.屏幕相关/1.屏幕宽高比判断")]
 #endif
         private static void MenuClicked()
         {
@@ -28,7 +28,7 @@ namespace WFrameWork
         }
         
 #if UNITY_EDITOR
-        [MenuItem("WFrameWork/7.屏幕相关/2.输出屏幕比值")]
+        [MenuItem("WFrameWork/07.屏幕相关/2.输出屏幕比值")]
 #endif
         private static void MenuClicked2()
         {

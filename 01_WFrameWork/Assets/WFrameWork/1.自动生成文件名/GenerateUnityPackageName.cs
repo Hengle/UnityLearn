@@ -9,7 +9,7 @@ namespace WFrameWork
     public class GenerateUnityPackageName
     {
 #if UNITY_EDITOR
-        [MenuItem("WFrameWork/1.生成UnityPacakge 名字")]
+        [MenuItem("WFrameWork/01.生成UnityPacakge 名字")]
 #endif
         static void MenueClicked()
         {

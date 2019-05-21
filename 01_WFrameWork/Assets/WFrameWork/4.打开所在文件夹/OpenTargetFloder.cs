@@ -9,7 +9,7 @@ namespace WFrameWork
     public class OpenTargetFolder
     {
         #if UNITY_EDITOR
-        [MenuItem("WFrameWork/4.打开所在的文件夹")]
+        [MenuItem("WFrameWork/04.打开所在的文件夹")]
         private static void ExportPackageInFolder()
         {
             Application.OpenURL("file://" + Path.Combine(Application.dataPath,"../") );

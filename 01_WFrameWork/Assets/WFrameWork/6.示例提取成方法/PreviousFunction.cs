@@ -10,7 +10,7 @@ namespace WFrameWork
     public class PreviousFunction
     {
 #if UNITY_EDITOR
-        [MenuItem("WFrameWork/6.总结之前的功能/1.生成UnityPacakge 名字")]
+        [MenuItem("WFrameWork/06.总结之前的功能/1.生成UnityPacakge 名字")]
 #endif
         private static void MenueClicked()
         {
@@ -24,7 +24,7 @@ namespace WFrameWork
 
 
 #if UNITY_EDITOR
-        [MenuItem("WFrameWork/6.总结之前的功能/2.复制文本到剪贴板")]
+        [MenuItem("WFrameWork/06.总结之前的功能/2.复制文本到剪贴板")]
 #endif
         private static void MenuClicked2()
         {
@@ -38,7 +38,7 @@ namespace WFrameWork
 
 
 #if UNITY_EDITOR
-        [MenuItem("WFrameWork/6.总结之前的功能/3.复制文件名到剪贴板")]
+        [MenuItem("WFrameWork/06.总结之前的功能/3.复制文件名到剪贴板")]
 #endif
         private static void MenuClicked3()
         {
@@ -47,7 +47,7 @@ namespace WFrameWork
 
         
 #if UNITY_EDITOR
-        [MenuItem("WFrameWork/6.总结之前的功能/4.导出UnityPackage %v")]
+        [MenuItem("WFrameWork/06.总结之前的功能/4.导出UnityPackage")]
 #endif
         private static void MenuClicked4()
         {
