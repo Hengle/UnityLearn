@@ -18,10 +18,10 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{B518C255-34B4-4A78-0F7C-6DE6C2AA24A4}</ProjectGuid>
+    <ProjectGuid>{DCE9444E-A6E3-91AC-0C98-A25DA388F401}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>Assets</BaseDirectory>
@@ -217,12 +217,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\WFrameWork\01.导出版本功能\EditorUtil.cs" />
-    <Compile Include="Assets\WFrameWork\01.导出版本功能\PreviousFunctions.cs" />
-    <Compile Include="Assets\WFrameWork\02.屏幕宽高比适配\NewBehaviourScript.cs" />
-    <Compile Include="Assets\WFrameWork\03.TransForm赋值优化\TransformSimplify.cs" />
-    <Compile Include="Assets\WFrameWork\05.概率函数\ProbabilityFunc.cs" />
-    <Compile Include="Assets\WFrameWork\06.物品显示隐藏简化\ActivitySimplify.cs" />
+    <Compile Include="Assets\QFramework\Framework\Editor\Exporter.cs" />
+    <Compile Include="Assets\QFramework\Test\Editor\V0_0_4.cs" />
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>
@@ -313,6 +309,12 @@
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>C:/Users/Administrator/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp.csproj">
+      <Project>{B518C255-34B4-4A78-0F7C-6DE6C2AA24A4}</Project>
+      <Name>Assembly-CSharp</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -6,7 +6,7 @@ using UnityEditor;
 
 namespace WFrameWork
 {
-    public class TransformLocalPositionSimplify
+    public class TransformSimplify
     {
 #if UNITY_EDITOR
         [MenuItem("WFrameWork/03.Transform位置简化")]
@@ -64,6 +64,13 @@ namespace WFrameWork
             localPos.y = y;
             localPos.z = z;
             transform.localPosition = localPos;
+        }
+        
+        public static void Identity(Transform transform)
+        {
+            transform.localPosition = Vector3.zero;
+            transform.localScale = Vector3.one;
+            transform.localRotation = Quaternion.identity;
         }
     }
 }
