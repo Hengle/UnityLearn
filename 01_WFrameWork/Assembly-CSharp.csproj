@@ -71,6 +71,7 @@
     <Compile Include="Assets\WFrameWork\Example\03.Partial关键字\partialKeyWord.cs" />
     <Compile Include="Assets\WFrameWork\Example\04.泛型设计\GetRandom.cs" />
     <Compile Include="Assets\WFrameWork\Example\05.MonoBehaviour简化\MonoBehaviourSimplify.cs" />
+    <Compile Include="Assets\WFrameWork\Example\06.定时功能\DelayWithCoroutine.cs" />
     <Compile Include="Assets\WFrameWork\Extension\EditorUtil.cs" />
     <Compile Include="Assets\WFrameWork\Extension\Exporter.cs" />
     <Compile Include="Assets\WFrameWork\Extension\GameObjectSimplify.cs" />
