@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <LangVersion>4</LangVersion>
+    <LangVersion>latest</LangVersion>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <_TargetFrameworkDirectories>non_empty_path_generated_by_rider_editor_plugin</_TargetFrameworkDirectories>
     <_FullFrameworkReferenceAssemblyPaths>non_empty_path_generated_by_rider_editor_plugin</_FullFrameworkReferenceAssemblyPaths>
@@ -66,15 +66,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\WFrameWork\1.自动生成文件名\GenerateUnityPackageName.cs" />
-    <Compile Include="Assets\WFrameWork\2.文本复制到剪贴板\CopyText2ClipBoard.cs" />
-    <Compile Include="Assets\WFrameWork\3.导出UnityPackage\ExportPackage.cs" />
-    <Compile Include="Assets\WFrameWork\4.打开所在文件夹\OpenTargetFloder.cs" />
-    <Compile Include="Assets\WFrameWork\5.MenuItem复用\MenuItemReuse.cs" />
-    <Compile Include="Assets\WFrameWork\6.示例提取成方法\PreviousFunction.cs" />
-    <Compile Include="Assets\WFrameWork\7.屏幕宽高比适配\NewBehaviourScript.cs" />
-    <Compile Include="Assets\WFrameWork\8.TransForm赋值优化\TransformLocalPositionSimplify.cs" />
-    <Compile Include="Assets\WFrameWork\9.Transform重置\TransformIdendity.cs" />
+    <Compile Include="Assets\WFrameWork\Example\01.导出版本功能\PreviousFunctions.cs" />
+    <Compile Include="Assets\WFrameWork\Example\02.屏幕宽高比适配\NewBehaviourScript.cs" />
+    <Compile Include="Assets\WFrameWork\Example\03.Partial关键字\partialKeyWord.cs" />
+    <Compile Include="Assets\WFrameWork\Example\04.泛型设计\GetRandom.cs" />
+    <Compile Include="Assets\WFrameWork\Example\05.MonoBehaviour简化\MonoBehaviourSimplify.cs" />
+    <Compile Include="Assets\WFrameWork\Extension\EditorUtil.cs" />
+    <Compile Include="Assets\WFrameWork\Extension\Exporter.cs" />
+    <Compile Include="Assets\WFrameWork\Extension\GameObjectSimplify.cs" />
+    <Compile Include="Assets\WFrameWork\Extension\MathUtil.cs" />
+    <Compile Include="Assets\WFrameWork\Extension\TransformSimplify.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>F:/Resprobility/UnityLearn/01_WFrameWork/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
