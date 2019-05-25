@@ -259,6 +259,7 @@
     <Compile Include="Assets\WFramework\Example\04.Transform API 简化\TransformSimplifyExample.cs" />
     <Compile Include="Assets\WFramework\Example\04.泛型设计\GetRandom.cs" />
     <Compile Include="Assets\WFramework\Example\05.概率函数\MathUtilExample.cs" />
+    <Compile Include="Assets\WFramework\Example\06.GameObject API 简化\GameObjectSimplifyExample.cs" />
     <Compile Include="Assets\WFramework\Framework\Extension\GameObjectExtension.cs" />
     <Compile Include="Assets\WFramework\Framework\Extension\TransformExtension.cs" />
     <Compile Include="Assets\WFramework\Framework\Utils\CommonUtil.cs" />
