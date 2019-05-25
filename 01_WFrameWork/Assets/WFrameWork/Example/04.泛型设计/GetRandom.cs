@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using Random = UnityEngine.Random;
 
-namespace WFrameWork
+namespace WFramework
 {
     public partial class MathUtil
     {
@@ -15,7 +15,7 @@ namespace WFrameWork
         }
 
 #if UNITY_EDITOR
-        [UnityEditor.MenuItem("WFrameWork/04.泛型设计",false,4)]
+        [UnityEditor.MenuItem("WFramework/04.泛型设计",false,4)]
 #endif
         private static void MenuClicked()
         {

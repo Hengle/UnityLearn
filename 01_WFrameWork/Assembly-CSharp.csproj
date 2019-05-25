@@ -217,17 +217,54 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\WFrameWork\Example\01.导出版本功能\PreviousFunctions.cs" />
-    <Compile Include="Assets\WFrameWork\Example\02.屏幕宽高比适配\NewBehaviourScript.cs" />
-    <Compile Include="Assets\WFrameWork\Example\03.Partial关键字\partialKeyWord.cs" />
-    <Compile Include="Assets\WFrameWork\Example\04.泛型设计\GetRandom.cs" />
-    <Compile Include="Assets\WFrameWork\Example\05.MonoBehaviour简化\MonoBehaviourSimplify.cs" />
-    <Compile Include="Assets\WFrameWork\Example\06.定时功能\DelayWithCoroutine.cs" />
-    <Compile Include="Assets\WFrameWork\FrameWork\EditorUtil.cs" />
-    <Compile Include="Assets\WFrameWork\FrameWork\Exporter.cs" />
-    <Compile Include="Assets\WFrameWork\FrameWork\GameObjectSimplify.cs" />
-    <Compile Include="Assets\WFrameWork\FrameWork\MathUtil.cs" />
-    <Compile Include="Assets\WFrameWork\FrameWork\TransformSimplify.cs" />
+    <Compile Include="Assets\QFramework\Example\1.复制文件到剪切板\CommonUtilExample.cs" />
+    <Compile Include="Assets\QFramework\Example\10.框架示例\FrameworkExample.cs" />
+    <Compile Include="Assets\QFramework\Example\11.MainManager\Game\GameModule.cs" />
+    <Compile Include="Assets\QFramework\Example\11.MainManager\Home\HomeModule.cs" />
+    <Compile Include="Assets\QFramework\Example\12.GUIManager\GUIExample.cs" />
+    <Compile Include="Assets\QFramework\Example\13.AudioManager\AudioExample.cs" />
+    <Compile Include="Assets\QFramework\Example\14.PoolManager\PoolExample.cs" />
+    <Compile Include="Assets\QFramework\Example\15.LevelManager\LevelExample.cs" />
+    <Compile Include="Assets\QFramework\Example\16.SingletonExample\SingletonExample.cs" />
+    <Compile Include="Assets\QFramework\Example\17.MonoSingletonExample\MonoSingletonExample.cs" />
+    <Compile Include="Assets\QFramework\Example\18.StaticThisExtension\StaticThisExtension.cs" />
+    <Compile Include="Assets\QFramework\Example\2.MenuItem 复用\EditorUtilExample.cs" />
+    <Compile Include="Assets\QFramework\Example\3.屏幕宽高比判断\ResolutionCheckExample.cs" />
+    <Compile Include="Assets\QFramework\Example\4.Transform API 简化\TransformSimplifyExample.cs" />
+    <Compile Include="Assets\QFramework\Example\5.概率函数\MathUtilExample.cs" />
+    <Compile Include="Assets\QFramework\Example\6.GameObject API 简化\GameObjectSimplifyExample.cs" />
+    <Compile Include="Assets\QFramework\Example\7.Hide 脚本\HideExample.cs" />
+    <Compile Include="Assets\QFramework\Example\8.定时功能\DelayWithCoroutine.cs" />
+    <Compile Include="Assets\QFramework\Example\9.简易消息机制\MsgDispatcherExample.cs" />
+    <Compile Include="Assets\QFramework\Framework\Extension\GameObjectExtension.cs" />
+    <Compile Include="Assets\QFramework\Framework\Extension\TransformExtension.cs" />
+    <Compile Include="Assets\QFramework\Framework\Manager\AudioManager.cs" />
+    <Compile Include="Assets\QFramework\Framework\Manager\GUIManager.cs" />
+    <Compile Include="Assets\QFramework\Framework\Manager\LevelManager.cs" />
+    <Compile Include="Assets\QFramework\Framework\Manager\MainManager.cs" />
+    <Compile Include="Assets\QFramework\Framework\MonoBehaviourSimplify.cs" />
+    <Compile Include="Assets\QFramework\Framework\Util\CommonUtil.cs" />
+    <Compile Include="Assets\QFramework\Framework\Util\EditorUtil.cs" />
+    <Compile Include="Assets\QFramework\Framework\Util\Hide.cs" />
+    <Compile Include="Assets\QFramework\Framework\Util\MathUtil.cs" />
+    <Compile Include="Assets\QFramework\Framework\Util\MonoSingleton.cs" />
+    <Compile Include="Assets\QFramework\Framework\Util\MsgDispatcher.cs" />
+    <Compile Include="Assets\QFramework\Framework\Util\ResolutionCheck.cs" />
+    <Compile Include="Assets\QFramework\Framework\Util\SimpleObjectPool.cs" />
+    <Compile Include="Assets\QFramework\Framework\Util\Singleton.cs" />
+    <Compile Include="Assets\QFramework\Test\V0_0_4.cs" />
+    <Compile Include="Assets\WFramework\Example\01.复制文件到剪贴板\CommonUtilExample.cs" />
+    <Compile Include="Assets\WFramework\Example\02.MenuItem复用\EditorUtilExample.cs" />
+    <Compile Include="Assets\WFramework\Example\03.屏幕宽高比判断\ResolutionCheckExample.cs" />
+    <Compile Include="Assets\WFramework\Example\04.Transform API 简化\TransformSimplifyExample.cs" />
+    <Compile Include="Assets\WFramework\Example\04.泛型设计\GetRandom.cs" />
+    <Compile Include="Assets\WFramework\Example\05.概率函数\MathUtilExample.cs" />
+    <Compile Include="Assets\WFramework\Framework\Extension\GameObjectExtension.cs" />
+    <Compile Include="Assets\WFramework\Framework\Extension\TransformExtension.cs" />
+    <Compile Include="Assets\WFramework\Framework\Utils\CommonUtil.cs" />
+    <Compile Include="Assets\WFramework\Framework\Utils\EditorUtil.cs" />
+    <Compile Include="Assets\WFramework\Framework\Utils\MathUtil.cs" />
+    <Compile Include="Assets\WFramework\Framework\Utils\ResolutionCheck.cs" />
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>
