@@ -44,11 +44,11 @@ namespace WFramework
         public override void Action(int instanceId, string pathName, string resourceFile)
         {
             //创建资源
-            UnityEngine.Object obj = CreateScriptAssetFormTemplate(pathName, resourceFile);
+            UnityEngine.Object obj = CreateScriptAssetFromTemplate(pathName, resourceFile);
             ProjectWindowUtil.ShowCreatedAsset(obj); //高亮显示新创建的资源
         }
 
-        internal static UnityEngine.Object CreateScriptAssetFormTemplate(string pathName, string resoureceFile)
+        internal static UnityEngine.Object CreateScriptAssetFromTemplate(string pathName, string resoureceFile)
         {
             //获取要创建资源的绝对路径
             var fullPath = Path.GetFullPath(pathName);
@@ -79,6 +79,37 @@ namespace WFramework
             AssetDatabase.ImportAsset(pathName);
             AssetDatabase.Refresh();
             return AssetDatabase.LoadAssetAtPath(pathName, typeof(UnityEngine.Object));
+        }
+    }
+
+    class CreateLuaScriptAsset : EndNameEditAction
+    {
+        public override void Action(int instanceId, string pathName, string resourceFile)
+        {
+            UnityEngine.Object obj = CreateScriptAssetFromTemplate(pathName, resourceFile);
+            ProjectWindowUtil.ShowCreatedAsset(obj);
+        }
+
+        internal static UnityEngine.Object CreateScriptAssetFromTemplate(string pathName, string resourceFile)
+        {
+            string fullPath = Path.GetFullPath(pathName);
+            StreamReader streamReader = new StreamReader(resourceFile);
+            string text = streamReader.ReadToEnd();
+            streamReader.Close();
+            string fileNameWithOUtExtension = Path.GetFileNameWithoutExtension(pathName);
+            Debug.Log("text ==== "+ text);
+
+            text = Regex.Replace(text, "LUACLASS", fileNameWithOUtExtension);
+            bool encoderShouldEmitUTF8Identifier = true;
+            bool throwOnInvalidBytes = false;
+            UTF8Encoding  encoding  = new UTF8Encoding(encoderShouldEmitUTF8Identifier , throwOnInvalidBytes);
+            bool appending = false;
+            StreamWriter streamWriter = new StreamWriter(fullPath,appending,encoding);
+            streamWriter.Write(text);
+            streamWriter.Close();
+            AssetDatabase.ImportAsset(pathName); //导入指定路径下的资源
+            return AssetDatabase.LoadAssetAtPath(pathName, typeof(UnityEngine.Object));//返回指定路径下的所有Object
+
         }
     }
 }
