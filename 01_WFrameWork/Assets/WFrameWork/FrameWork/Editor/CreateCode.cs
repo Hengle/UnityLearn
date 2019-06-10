@@ -18,6 +18,7 @@ namespace WFramework
         [MenuItem("Assets/Create/Script/MyExampleC#", false, 2)]
         private static void CreateExampleCSharpe()
         {
+            
         }
 
 
