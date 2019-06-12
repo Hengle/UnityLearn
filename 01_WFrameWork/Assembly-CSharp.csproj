@@ -279,6 +279,8 @@
     <Compile Include="Assets\WFramework\Framework\Utils\MonoSingleTon.cs" />
     <Compile Include="Assets\WFramework\Framework\Utils\MsgDispatcher.cs" />
     <Compile Include="Assets\WFramework\Framework\Utils\ResolutionCheck.cs" />
+    <Compile Include="Assets\WFramework\Framework\Utils\SimpleObjectPool.cs" />
+    <Compile Include="Assets\WFramework\Framework\Utils\Singleton.cs" />
     <Reference Include="UnityEngine.UI">
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>
