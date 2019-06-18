@@ -8,7 +8,7 @@ namespace WFramework
     {
        
         #if UNITY_EDITOR
-        [UnityEditor.MenuItem("WFramework/Example/13.AudioManager")]
+        [UnityEditor.MenuItem("WFramework/Example/13.AudioManager", false, 13)]
         static void MenuClicked()
         {
             UnityEditor.EditorApplication.isPlaying = true;

@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace WFramework
 {
-    public class AudioManager : MonoSingleTon<AudioManager>
+    public class AudioManager : MonoSingleton<AudioManager>
     {
         private AudioListener _mAudioListener;
 

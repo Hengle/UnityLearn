@@ -217,8 +217,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\QFramework\Framework\Editor\Exporter.cs" />
-    <Compile Include="Assets\QFramework\Test\Editor\V0_0_4.cs" />
     <Compile Include="Assets\WFramework\Framework\Editor\CreateCode.cs" />
     <Compile Include="Assets\WFramework\Framework\Editor\Exporter.cs" />
     <Reference Include="UnityEngine.UI">

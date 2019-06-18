@@ -7,7 +7,7 @@ namespace WFramework
     public class FrameworkExample : MonoBehaviourSimplify
     {
 #if UNITY_EDITOR
-        [UnityEditor.MenuItem("WFramework/Example/10.框架示例")]
+        [UnityEditor.MenuItem("WFramework/Example/10.框架示例", false, 10)]
 #endif
         private static void MenuClicked()
         {

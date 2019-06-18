@@ -11,7 +11,7 @@ namespace WFramework
         }
 
 #if UNITY_EDITOR
-        [UnityEditor.MenuItem("WFramework/Example/12.GUIManager")]
+        [UnityEditor.MenuItem("WFramework/Example/12.GUIManager",false, 12)]
         static void MunClicked()
         {
             UnityEditor.EditorApplication.isPlaying = true;

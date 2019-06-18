@@ -2,7 +2,7 @@
 
 namespace WFramework
 {
-    public class MonoSingleTon<T> : MonoBehaviour where T:MonoSingleTon<T>
+    public class MonoSingleton<T> : MonoBehaviour where T:MonoSingleton<T>
     {
         protected static T _mInstance = null;
 
