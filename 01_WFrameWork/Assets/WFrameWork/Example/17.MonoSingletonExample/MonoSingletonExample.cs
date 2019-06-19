@@ -12,7 +12,7 @@ namespace WFramework
         }
 #endif
 
-        [RuntimeInitializeOnLoadMethod]
+//        [RuntimeInitializeOnLoadMethod]
         static void Example()
         {
             var initInstance = MonoSingletonExample.Instance;
