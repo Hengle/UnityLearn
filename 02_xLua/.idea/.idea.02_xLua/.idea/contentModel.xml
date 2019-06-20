@@ -9,6 +9,11 @@
       <e p="02_xLua.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\LuaScript" t="Include">
+        <e p="Main" t="Include">
+          <e p="main.lua.txt" t="Include" />
+        </e>
+      </e>
       <e p="Assets\Scenes" t="Include">
         <e p="E1" t="Include">
           <e p="helloword01.cs" t="Include" />
@@ -85,63 +90,6 @@
             </e>
           </e>
           <e p="ExampleGenConfig.cs" t="Include" />
-        </e>
-        <e p="Gen" t="Include">
-          <e p="DelegatesGensBridge.cs" t="Include" />
-          <e p="EnumWrap.cs" t="Include" />
-          <e p="link.xml" t="Include" />
-          <e p="PackUnpack.cs" t="Include" />
-          <e p="SystemCollectionsGenericList1SystemInt32Wrap.cs" t="Include" />
-          <e p="SystemCollectionsIEnumeratorBridge.cs" t="Include" />
-          <e p="SystemObjectWrap.cs" t="Include" />
-          <e p="TutorialBaseClassWrap.cs" t="Include" />
-          <e p="TutorialCSCallLuaItfDBridge.cs" t="Include" />
-          <e p="TutorialDerivedClassExtensionsWrap.cs" t="Include" />
-          <e p="TutorialDerivedClassWrap.cs" t="Include" />
-          <e p="TutorialICalcWrap.cs" t="Include" />
-          <e p="UnityEngineAnimationClipWrap.cs" t="Include" />
-          <e p="UnityEngineAnimationCurveWrap.cs" t="Include" />
-          <e p="UnityEngineBehaviourWrap.cs" t="Include" />
-          <e p="UnityEngineBoundsWrap.cs" t="Include" />
-          <e p="UnityEngineColorWrap.cs" t="Include" />
-          <e p="UnityEngineComponentWrap.cs" t="Include" />
-          <e p="UnityEngineDebugWrap.cs" t="Include" />
-          <e p="UnityEngineGameObjectWrap.cs" t="Include" />
-          <e p="UnityEngineKeyframeWrap.cs" t="Include" />
-          <e p="UnityEngineLightWrap.cs" t="Include" />
-          <e p="UnityEngineMathfWrap.cs" t="Include" />
-          <e p="UnityEngineMonoBehaviourWrap.cs" t="Include" />
-          <e p="UnityEngineObjectWrap.cs" t="Include" />
-          <e p="UnityEngineParticleSystemWrap.cs" t="Include" />
-          <e p="UnityEngineQuaternionWrap.cs" t="Include" />
-          <e p="UnityEngineRay2DWrap.cs" t="Include" />
-          <e p="UnityEngineRayWrap.cs" t="Include" />
-          <e p="UnityEngineRendererWrap.cs" t="Include" />
-          <e p="UnityEngineResourcesWrap.cs" t="Include" />
-          <e p="UnityEngineSkinnedMeshRendererWrap.cs" t="Include" />
-          <e p="UnityEngineTextAssetWrap.cs" t="Include" />
-          <e p="UnityEngineTimeWrap.cs" t="Include" />
-          <e p="UnityEngineTransformWrap.cs" t="Include" />
-          <e p="UnityEngineVector2Wrap.cs" t="Include" />
-          <e p="UnityEngineVector3Wrap.cs" t="Include" />
-          <e p="UnityEngineVector4Wrap.cs" t="Include" />
-          <e p="UnityEngineWaitForSecondsWrap.cs" t="Include" />
-          <e p="UnityEngineWWWWrap.cs" t="Include" />
-          <e p="WrapPusher.cs" t="Include" />
-          <e p="XLuaGenAutoRegister.cs" t="Include" />
-          <e p="XLuaTestBaseTestWrap.cs" t="Include" />
-          <e p="XLuaTestFoo1ChildWrap.cs" t="Include" />
-          <e p="XLuaTestFoo1ParentWrap.cs" t="Include" />
-          <e p="XLuaTestFoo2ChildWrap.cs" t="Include" />
-          <e p="XLuaTestFoo2ParentWrap.cs" t="Include" />
-          <e p="XLuaTestFooExtensionWrap.cs" t="Include" />
-          <e p="XLuaTestFooWrap.cs" t="Include" />
-          <e p="XLuaTestIExchangerBridge.cs" t="Include" />
-          <e p="XLuaTestInvokeLuaICalcBridge.cs" t="Include" />
-          <e p="XLuaTestLuaBehaviourWrap.cs" t="Include" />
-          <e p="XLuaTestMyStructWrap.cs" t="Include" />
-          <e p="XLuaTestNoGcWrap.cs" t="Include" />
-          <e p="XLuaTestPeddingWrap.cs" t="Include" />
         </e>
         <e p="Resources" t="Include">
           <e p="perf" t="Include">
