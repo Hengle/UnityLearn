@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2018.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2018.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_04_SourceAdd.1921004848.00" t="ExcludeRecursive" />
+    <e p="F:\GitHubRepository\UnityLearn\04_SourceAdd" t="IncludeRecursive">
+      <e p="04_SourceAdd.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assets\Demo1" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Test.asmdef" t="Include" />
+          <e p="Test_01.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\Editor" t="Include">
+        <e p="AB_Test.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="Test.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
