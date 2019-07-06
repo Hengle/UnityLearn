@@ -336,6 +336,8 @@ public abstract partial class MonoBehaviourSimplify:MonoBehaviour
   }
 ```
 
+  >层级管理的新手段：使用Canvas 和专用的UI相机，考虑使用代码直接创建出UI层级，每一层都是新的Canvas, 并且每个整体性的UI上也附加Canvas组件， 利用上下关系和OrderInLayer 进行区分（便于特效等的处理， 同时UI相机只渲染UI层的显示，便于多相机处理）
+
 ## 11 声音管理
 
 ## 12 关卡管理
