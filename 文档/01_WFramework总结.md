@@ -339,7 +339,285 @@ public abstract partial class MonoBehaviourSimplify:MonoBehaviour
   >层级管理的新手段：使用Canvas 和专用的UI相机，考虑使用代码直接创建出UI层级，每一层都是新的Canvas, 并且每个整体性的UI上也附加Canvas组件， 利用上下关系和OrderInLayer 进行区分（便于特效等的处理， 同时UI相机只渲染UI层的显示，便于多相机处理）
 
 ## 11 声音管理
+```csharp
+public class AudioManager:MonoSingleTon<AudioManager>
+{
+    private AudioListener _mAudioListener;
+
+    void CheckAudioListener()
+    {
+        if(!_mAudioListener)
+        {
+            _mAudioListener = FindObjectOfType<AudioListener>();
+        }
+
+        if(!_mAudioListener)
+        {
+          _mAudioListener = gameObject.AddComponent<AudioListener>();
+        }
+    }
+
+    public void PlaySound(string soundName)
+       {
+           CheckAudioListener();
+           var coinClip = Resources.Load<AudioClip>(soundName);
+           var audioSource = gameObject.AddComponent<AudioSource>();
+
+           audioSource.clip = coinClip;
+           audioSource.Play();
+       }
+
+       private AudioSource _mMusicSource;
+
+       public void PlayMusic(string musicName, bool loop)
+       {
+           CheckAudioListener();
+           if (!_mMusicSource)
+           {
+               _mMusicSource = gameObject.AddComponent<AudioSource>();
+           }
+
+           var coinClip = Resources.Load<AudioClip>(musicName);
+
+           _mMusicSource.clip = coinClip;
+           _mMusicSource.loop = loop;
+           _mMusicSource.Play();
+       }
+
+       public void StopMusic()
+       {
+           _mMusicSource.Stop();
+       }
+
+       public void PauseMusic()
+       {
+           _mMusicSource.Pause();
+       }
+
+       public void ResumeMusic()
+       {
+           _mMusicSource.UnPause();
+       }
+
+       public void MusicOff()
+       {
+           _mMusicSource.Pause();
+           _mMusicSource.mute = true;
+       }
+
+       public void MusicOn()
+       {
+           _mMusicSource.UnPause();
+           _mMusicSource.mute = false;
+       }
+
+       public void SoundOff()
+       {
+           var soundSources = GetComponents<AudioSource>();
+           foreach (var soundSource in soundSources)
+           {
+               if (soundSource != null)
+               {
+                   soundSource.Pause();
+                   soundSource.mute = true;
+               }
+           }
+       }
+
+       public void SoundOn()
+       {
+           var soundSources = GetComponents<AudioSource>();
+
+           foreach (var soundSource in soundSources)
+           {
+               if (soundSource != _mMusicSource)
+               {
+                   soundSource.UnPause();
+                   soundSource.mute = false;
+               }
+           }
+       }
+}
+```
 
 ## 12 关卡管理
+```csharp
+public class LevelManager
+   {
+       private static List<string> _mLevelNames;
+
+       public static int Index { get; set; }
+
+       public static void Init(List<string> levelNames)
+       {
+           _mLevelNames = levelNames;
+           Index = 0;
+       }
+
+       public static void LoadCurrent()
+       {
+           SceneManager.LoadScene(_mLevelNames[Index]);
+       }
+
+       public static void LoadNext()
+       {
+           Index++;
+           if (Index >= _mLevelNames.Count)
+           {
+               Index = 0;
+           }
+           SceneManager.LoadScene(_mLevelNames[Index]);
+       }
+   }
+```
 
 ## 13 单例(泛型与反射的初步认识)
+
+**1：普通单例父类：（非Mono类单例）**
+```csharp
+  public class SingleTon<T> where T:SigleTon<T>
+  {
+    private static T _mInstance;
+    public static T Instance{
+      get{
+        if(_mInstance == null){
+          var ctors = typeof(T).GetConstructors(BindingFlags.Instance|BindingFlags.NonPublic);
+          var ctor = Arry.Find(ctors, c => c.GetParameters().Length == 0 );
+          if (ctor == null)
+            throw new Exception("Non-public ctor() not found!");
+          _mInstance = ctor.Invoke(null) as T;
+        }
+        return _mInstance;
+      }
+    }
+
+    protected Singleton(){
+
+    }
+  }
+
+  //上述单例父类待验证（不建议使用，一个项目中的单例没有多少，正常单个写即可）
+```
+
+**2：继承自Mono的单例父类:**
+
+```csharp
+  public class MonoSingleTon<T>:MonoBehaviour where T:MonoSingleTon<T>
+  {
+    protected static T _mInstance = null;
+
+    public static T Instance
+    {
+      get
+      {
+        if(_mInstance == null)
+        {
+            _mInstance = FindObjectOfType<T>();
+            if(FindObjectsOfType<T>.Length > 1)
+            {
+              Debug.LogWarning("More Than 1");
+              return _mInstance;
+            }
+
+            if _mInstance == null
+            {
+              var instanceName = typeof(T).Name;
+              Debug.LogFormat("Instance Name { 0 }" , instanceName);
+
+              var instanceObj = GameObject.Find(instanceName);
+              if(!instanceObj)
+              {
+                  instanceObj = new GameObject(instanceName);
+              }
+              _mInstance = instanceObj.AddComponent<T>();
+              DontDestoryOnLoad(instanceObj); //保证实例不会被释放
+
+              Debug.Log("Add New Singleton <color=aqua>{0}</color> in Game!", instanceName);
+            }
+            else
+            {
+              Debug.LogFormat("Already exist: <color=aqua>{0}</color>", _mInstance.name);
+            }
+        }
+
+        return _mInstance;
+      }
+    }
+  }
+```
+
+## 14 简易对象池
+
+```csharp
+public interface IPool<T>
+  {
+      T Allocate();
+      bool Recycle(T obj);
+  }
+
+  public interface IObjectFactory<T>
+  {
+      T Create();
+  }
+
+  public abstract class Pool<T> : IPool<T>
+  {
+
+      protected Stack<T> MCacheStack = new Stack<T>();
+
+      protected IObjectFactory<T> MFactory;
+
+      public int CurCount => MCacheStack.Count;
+
+      public T Allocate()
+      {
+          return MCacheStack.Count > 0 ? MCacheStack.Pop() : MFactory.Create();
+      }
+
+      public abstract bool Recycle(T obj);
+  }
+
+  public class CustomObjectFactory<T> : IObjectFactory<T>
+  {
+      private Func<T> _mFactoryMethod;
+
+      public CustomObjectFactory(Func<T> factoryMethod)
+      {
+          _mFactoryMethod = factoryMethod;
+      }
+
+      public T Create()
+      {
+          return _mFactoryMethod();
+      }
+  }
+
+  public class SimpleObjectPool<T> : Pool<T>
+  {
+      private Action<T> _mResetMethod;
+
+      public SimpleObjectPool(Func<T> factoryMethod, Action<T> resetMethod = null, int initCount = 0)
+      {
+          MFactory = new CustomObjectFactory<T>(factoryMethod);
+          _mResetMethod = resetMethod;
+          for (var i = 0; i < initCount; i++)
+          {
+              MCacheStack.Push(MFactory.Create());
+          }
+      }
+
+      public override bool Recycle(T obj)
+      {
+          if (_mResetMethod != null)
+          {
+              _mResetMethod(obj);
+          }
+
+          MCacheStack.Push(obj);
+          return true;
+      }
+  }
+```
+
+
+>上面就是框架的初始阶段，后续会继续补充（上面这些只是单个的片段，后续会整理一套完整的游戏流程出来，包括框架启动，服务器连接，到结束等。）
