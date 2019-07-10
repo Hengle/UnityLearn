@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_SelfScroll.1530947233.00" t="ExcludeRecursive" />
+    <e p="E:\UnityLearn\05_SelfScroll\SelfScroll" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="SelfScroll" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="EnchanceScrollView.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="SelfScroll.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
