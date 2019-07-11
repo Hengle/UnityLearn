@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\SelfScroll\Scripts\EnchanceScrollView.cs" />
+    <Compile Include="Assets\SelfScroll\Scripts\Test.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>E:/UnityLearn/05_SelfScroll/SelfScroll/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

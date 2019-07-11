@@ -47,10 +47,6 @@ namespace UIExtension
             Scroll.onValueChanged.AddListener(OnListenMove);
         }
 
-        private void Update()
-        {
-            
-        }
 
         private void OnDestroy()
         {
@@ -61,12 +57,12 @@ namespace UIExtension
         }
 
         #region public
-
+//===========================================================================================
         public void SetNum(int num)
         {
             Num = num;
 
-            Init();
+            StartCoroutine(Init());
         }
 
         public void AddRefresh(EScrollRefresh func)
@@ -81,8 +77,33 @@ namespace UIExtension
             }
         }
 
-        #endregion
+        private Coroutine m_Coroutine;
+        public void MoveToIndex(int index, float delay)
+        {
+            if(index<0||index>Num-1) 
+                throw new Exception("需要定位的位置错误：" + index );
 
+            index = Math.Min(index, Num - GetShowCount() + 2);
+            index = Math.Max(0, index);
+
+            var rect = Grid.GetComponent<RectTransform>();
+            Vector2 pos = rect.anchoredPosition;
+
+            Vector2 V2Pos;
+            if (Scroll.horizontal)
+            {
+                V2Pos = new Vector2(GetPos(index),rect.anchoredPosition.y);
+            }
+            else
+            {
+                V2Pos = new Vector2(rect.anchoredPosition.x, -GetPos(index));
+            }
+
+            m_Coroutine = StartCoroutine(TweenMoveToPos(pos, V2Pos, delay));
+        }
+        
+        
+//================================================================================================
         #region private
 
         private void SetItemRecord(int index, RectTransform go)
@@ -111,7 +132,7 @@ namespace UIExtension
         {
             _isInit = true;
             //0.设置物体的框和高
-            var _rect = Grid.gameObject.GetComponent<RectTransform>();
+            var _rect = Grid.GetComponent<RectTransform>();
             if (Scroll.horizontal)
             {
                 _rect.sizeDelta = new Vector2((Grid.cellSize.x+Grid.spacing.x)*Num,_rect.sizeDelta.y);   
@@ -129,7 +150,16 @@ namespace UIExtension
                 Debug.Log("<color=aqua>需要展示的数量为：" + GetShowCount() + "</color>");
                 for (int i = 0; i < (Num < GetShowCount() ? Num : GetShowCount()); i++)
                 {
-                    var obj = Instantiate(Target);
+                    GameObject obj;
+
+                    if (needDispose.Count > 0)
+                    {
+                        obj = needDispose[0];
+                    }
+                    else
+                    {
+                        obj = Instantiate(Target);
+                    }
                     obj.transform.SetParent(Grid.transform);
                     obj.SetActive(true);
                     var rect = obj.GetComponent<RectTransform>();
@@ -280,24 +310,33 @@ namespace UIExtension
             return size;
         }
         
-        
-        //移动到指定位置
-        private void MoveToIndex(int index)
+        protected IEnumerator TweenMoveToPos(Vector2 pos, Vector2 v2Pos, float delay)
         {
-            RectTransform rect = Grid.GetComponent<RectTransform>();
-            if (Scroll.horizontal) //横向
+            bool running = true;
+            float passedTime = 0f;
+            while (running)
             {
-                float targetmove = GetPos(index);
-
-
-                
+                yield return new WaitForEndOfFrame();
+                passedTime += Time.deltaTime;
+                Vector2 vCur;
+                if (passedTime >= delay)
+                {
+                    vCur = v2Pos;
+                    running = false;
+                    StopCoroutine(m_Coroutine);
+                    m_Coroutine = null;
+                }
+                else
+                {
+                    vCur = Vector2.Lerp(pos, v2Pos, passedTime / delay);
+                }
+                Grid.GetComponent<RectTransform>().anchoredPosition = vCur;
             }
-            else //纵向
-            {
-                
-            }
+
         }
 
+        #endregion
+        
         #endregion
     }
 }
