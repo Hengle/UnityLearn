@@ -92,7 +92,7 @@ namespace UIExtension
             Vector2 V2Pos;
             if (Scroll.horizontal)
             {
-                V2Pos = new Vector2(GetPos(index),rect.anchoredPosition.y);
+                V2Pos = new Vector2(-GetPos(index),rect.anchoredPosition.y);
             }
             else
             {
@@ -279,17 +279,22 @@ namespace UIExtension
             {
                 if (Scroll.horizontal && !Scroll.vertical) //横向
                 {
-                    size += Grid.cellSize.x + Grid.spacing.x;
+                    size -= (Grid.cellSize.x + Grid.spacing.x);
+                    if (size < curps)
+                    {
+                        index = i;
+                        break;
+                    }
                 }
                 else if (!Scroll.horizontal && Scroll.vertical) //纵向
                 {
                     size += Grid.cellSize.y + Grid.spacing.y;
-                }
-
-                if (size > curps)
-                {
-                    index = i;
-                    break;
+                    
+                    if (size > curps)
+                    {
+                        index = i;
+                        break;
+                    }
                 }
             }
 
