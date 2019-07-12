@@ -19,3 +19,5 @@ WyKey
 
 
 **真机调试测试：**
+1. 获取unity remote 和 获取gogle use驱动：
+    
