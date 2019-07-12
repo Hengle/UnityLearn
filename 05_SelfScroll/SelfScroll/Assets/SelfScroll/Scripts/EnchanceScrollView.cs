@@ -101,8 +101,39 @@ namespace UIExtension
 
             m_Coroutine = StartCoroutine(TweenMoveToPos(pos, V2Pos, delay));
         }
-        
-        
+
+        public void SetToIndex(int index)
+        {
+            if(index<0||index>Num-1) 
+                throw new Exception("需要定位的位置错误：" + index );
+
+            index = Math.Min(index, Num - GetShowCount() + 2);
+            index = Math.Max(0, index);
+
+            var rect = Grid.GetComponent<RectTransform>();
+            Vector2 pos = rect.anchoredPosition;
+
+            Vector2 V2Pos;
+            if (Scroll.horizontal)
+            {
+                V2Pos = new Vector2(-GetPos(index),rect.anchoredPosition.y);
+            }
+            else
+            {
+                V2Pos = new Vector2(rect.anchoredPosition.x, -GetPos(index));
+            }
+
+            if (Scroll.horizontal)
+            {
+                Grid.GetComponent<RectTransform>().anchoredPosition = new Vector2(V2Pos.x - 1, V2Pos.y);
+            }
+            else
+            {
+                Grid.GetComponent<RectTransform>().anchoredPosition = new Vector2(V2Pos.x, V2Pos.y - 1);
+            }
+            m_Coroutine = StartCoroutine(TweenMoveToPos(pos, V2Pos, 0.1f));
+        }
+
 //================================================================================================
         #region private
 
@@ -163,7 +194,10 @@ namespace UIExtension
                     obj.transform.SetParent(Grid.transform);
                     obj.SetActive(true);
                     var rect = obj.GetComponent<RectTransform>();
+                    rect.anchorMin = new Vector2(0,1);
+                    rect.anchorMax = new Vector2(0,1);
                     rect.sizeDelta = new Vector2(Grid.cellSize.x, Grid.cellSize.y);
+                    
                     SetItemRecord(i, obj.GetComponent<RectTransform>());
                 }
             }
@@ -262,6 +296,8 @@ namespace UIExtension
 
                         item.transform.SetParent(Grid.transform);
                         item.gameObject.SetActive(true);
+                        item.anchorMin = new Vector2(0,1);
+                        item.anchorMax = new Vector2(0,1);
                         item.sizeDelta = new Vector2(Grid.cellSize.x, Grid.cellSize.y);
                         SetItemRecord(i, item);
                     }
@@ -315,13 +351,13 @@ namespace UIExtension
             return size;
         }
         
-        protected IEnumerator TweenMoveToPos(Vector2 pos, Vector2 v2Pos, float delay)
+        protected IEnumerator TweenMoveToPos(Vector2 pos, Vector2 v2Pos, float delay)  //目前使用Lerp函数进行移动，建议更换DoTween
         {
             bool running = true;
             float passedTime = 0f;
             while (running)
             {
-                yield return new WaitForEndOfFrame();
+                yield return new WaitForEndOfFrame(); //等1帧
                 passedTime += Time.deltaTime;
                 Vector2 vCur;
                 if (passedTime >= delay)
