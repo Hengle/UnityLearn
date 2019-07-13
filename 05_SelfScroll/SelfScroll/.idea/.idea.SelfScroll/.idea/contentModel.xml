@@ -9,6 +9,7 @@
         <e p="SelfScroll" t="Include">
           <e p="Scripts" t="Include">
             <e p="EnchanceScrollView.cs" t="Include" />
+            <e p="Test.cs" t="Include" />
           </e>
         </e>
       </e>
