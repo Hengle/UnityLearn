@@ -2,17 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77982255-372b-4213-8bd2-286ef35e3e67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.03_android/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/08c999-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/08c999-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.03_android/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.03_android/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.03_android/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.03_android/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TouchDemo/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TouchDemo/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TouchDemo/TouchDemo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TouchDemo/TouchDemo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/AssetImportState" beforeDir="false" afterPath="$PROJECT_DIR$/Library/AssetImportState" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/0ede5f-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/0ede5f-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/01/01e02995805eb483690380a911a657e2.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/35/35a2c548873aa2140a6c941126fe4c8c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/35/35a2c548873aa2140a6c941126fe4c8c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/35/35a2c548873aa2140a6c941126fe4c8c.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/35/35a2c548873aa2140a6c941126fe4c8c.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3c/3cf132d4fa07f4f0cb2883499c5c7dd0.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4c/4c433abcdb28444ebb7bd395ba5c76fc.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/4c/4c7a0e9064d4f29488605605ea7e26dd" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4c/4c7a0e9064d4f29488605605ea7e26dd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/4c/4c7a0e9064d4f29488605605ea7e26dd.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4c/4c7a0e9064d4f29488605605ea7e26dd.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4d/4dfd3f5da88944ec6ac5977d676c30c6.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ac/acc34040a66fe4170bc8885268860cfe" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ac/acc34040a66fe4170bc8885268860cfe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/ac/acc34040a66fe4170bc8885268860cfe.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ac/acc34040a66fe4170bc8885268860cfe.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f8/f8eca3a711f4842eba0c52ea9885ef7f.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../文档/03_android相关.md" beforeDir="false" afterPath="$PROJECT_DIR$/../文档/03_android相关.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,29 +50,118 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/TouchDemo/TouchDemo.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
               <folding>
-                <marker date="1563251410462" expanded="true" signature="6:100" ph="..." />
-                <marker date="1563251410462" expanded="true" signature="140:384" ph="{...}" />
-                <marker date="1563251410462" expanded="true" signature="190:211" ph="{...}" />
-                <marker date="1563251410462" expanded="true" signature="230:382" ph="{...}" />
-                <marker date="1563251410462" expanded="true" signature="295:376" ph="{...}" />
+                <marker date="1563272882753" expanded="true" signature="6:100" ph="..." />
+                <marker date="1563272882753" expanded="true" signature="140:942" ph="{...}" />
+                <marker date="1563272882753" expanded="true" signature="216:237" ph="{...}" />
+                <marker date="1563272882753" expanded="true" signature="256:940" ph="{...}" />
+                <marker date="1563272882753" expanded="true" signature="350:903" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4F5285D-BB9E-4D19-9556-920BE8FBF17D/9c/e19e0ad6/Touch.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="124" column="21" selection-start-line="124" selection-start-column="11" selection-end-line="124" selection-end-column="21" />
+              <folding>
+                <marker date="1563270415759" expanded="true" signature="0:307" ph="/* Decompiled with JetBrains decompiler ... */" />
+                <marker date="1563270415759" expanded="true" signature="359:5385" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="364:480" ph="///   &lt;para&gt;Structure describing the status of a finger touching the screen.&lt;/para&gt; ... " />
+                <marker date="1563270415759" expanded="true" signature="552:5383" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="1023:1110" ph="///   &lt;para&gt;The unique index for the touch.&lt;/para&gt; ... " />
+                <marker date="1563270415759" expanded="true" signature="1134:1263" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="1150:1198" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="1208:1257" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="1269:1372" ph="///   &lt;para&gt;The position of the touch in pixel coordinates.&lt;/para&gt; ... " />
+                <marker date="1563270415759" expanded="true" signature="1400:1529" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="1416:1464" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="1474:1523" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="1535:1627" ph="///   &lt;para&gt;The raw position used for the touch.&lt;/para&gt; ... " />
+                <marker date="1563270415759" expanded="true" signature="1658:1793" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="1674:1725" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="1735:1787" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="1799:1892" ph="///   &lt;para&gt;The position delta since last change.&lt;/para&gt; ... " />
+                <marker date="1563270415759" expanded="true" signature="1925:2064" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="1941:1994" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="2004:2058" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="2070:2204" ph="///   &lt;para&gt;Amount of time that has passed since the last recorded change in Touch values.&lt;/para&gt; ... " />
+                <marker date="1563270415759" expanded="true" signature="2231:2362" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="2247:2296" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="2306:2356" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="2368:2439" ph="///   &lt;para&gt;Number of taps.&lt;/para&gt; ... " />
+                <marker date="1563270415759" expanded="true" signature="2463:2592" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="2479:2527" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="2537:2586" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="2598:2687" ph="///   &lt;para&gt;Describes the phase of the touch.&lt;/para&gt; ... " />
+                <marker date="1563270415759" expanded="true" signature="2715:2838" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="2731:2776" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="2786:2832" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="2844:3112" ph="///   &lt;para&gt;The current amount of pressure being applied to a touch.  1.0f is considered to be the pressure of an ... " />
+                <marker date="1563270415759" expanded="true" signature="3138:3267" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="3154:3202" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="3212:3261" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="3273:3476" ph="///   &lt;para&gt;The maximum possible pressure value for a platform.  If Input.touchPressureSupported returns false, t ... " />
+                <marker date="1563270415759" expanded="true" signature="3517:3676" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="3533:3596" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="3606:3670" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="3682:3829" ph="///   &lt;para&gt;A value that indicates whether a touch was of Direct, Indirect (or remote), or Stylus type.&lt;/para&gt; ... " />
+                <marker date="1563270415759" expanded="true" signature="3855:3976" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="3871:3915" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="3925:3970" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="3982:4151" ph="///   &lt;para&gt;Value of 0 radians indicates that the stylus is parallel to the surface, pi/2 indicates that it is pe ... " />
+                <marker date="1563270415759" expanded="true" signature="4182:4321" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="4198:4251" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="4261:4315" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="4327:4470" ph="///   &lt;para&gt;Value of 0 radians indicates that the stylus is pointed along the x-axis of the device.&lt;/para&gt; ... " />
+                <marker date="1563270415759" expanded="true" signature="4500:4637" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="4516:4568" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="4578:4631" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="4643:4837" ph="///   &lt;para&gt;An estimated value of the radius of a touch.  Add radiusVariance to get the maximum touch size, subtr ... " />
+                <marker date="1563270415759" expanded="true" signature="4861:4986" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="4877:4923" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="4933:4980" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="4992:5206" ph="///   &lt;para&gt;This value determines the accuracy of the touch radius. Add this value to the radius to get the maxim ... " />
+                <marker date="1563270415759" expanded="true" signature="5238:5379" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="5254:5308" ph="{...}" />
+                <marker date="1563270415759" expanded="true" signature="5318:5373" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4F5285D-BB9E-4D19-9556-920BE8FBF17D/dc/40bce27b/TouchPhase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>angle</find>
+      <find>m_PositionDelta</find>
+      <find>deltaPosition</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4F5285D-BB9E-4D19-9556-920BE8FBF17D/9c/e19e0ad6/Touch.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4F5285D-BB9E-4D19-9556-920BE8FBF17D/dc/40bce27b/TouchPhase.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TouchDemo/TouchDemo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -55,8 +172,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2214" />
-    <option name="y" value="154" />
+    <option name="x" value="2016" />
+    <option name="y" value="121" />
     <option name="width" value="1247" />
     <option name="height" value="905" />
   </component>
@@ -79,6 +196,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -127,11 +245,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563251224195</updated>
       <workItem from="1563251229046" duration="779000" />
+      <workItem from="1563270368130" duration="3022000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="779000" />
+    <option name="totallyTimeSpent" value="3801000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -143,22 +262,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2214" y="154" width="1247" height="905" extended-state="0" />
+    <frame x="2016" y="121" width="1247" height="905" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24936816" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25358045" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="LuaCheck" />
-      <window_info anchor="bottom" id="NuGet" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -166,20 +277,29 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="LuaCheck" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -191,16 +311,92 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4F5285D-BB9E-4D19-9556-920BE8FBF17D/9c/e19e0ad6/Touch.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="124" column="21" selection-start-line="124" selection-start-column="11" selection-end-line="124" selection-end-column="21" />
+          <folding>
+            <marker date="1563270415759" expanded="true" signature="0:307" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1563270415759" expanded="true" signature="359:5385" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="364:480" ph="///   &lt;para&gt;Structure describing the status of a finger touching the screen.&lt;/para&gt; ... " />
+            <marker date="1563270415759" expanded="true" signature="552:5383" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="1023:1110" ph="///   &lt;para&gt;The unique index for the touch.&lt;/para&gt; ... " />
+            <marker date="1563270415759" expanded="true" signature="1134:1263" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="1150:1198" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="1208:1257" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="1269:1372" ph="///   &lt;para&gt;The position of the touch in pixel coordinates.&lt;/para&gt; ... " />
+            <marker date="1563270415759" expanded="true" signature="1400:1529" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="1416:1464" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="1474:1523" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="1535:1627" ph="///   &lt;para&gt;The raw position used for the touch.&lt;/para&gt; ... " />
+            <marker date="1563270415759" expanded="true" signature="1658:1793" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="1674:1725" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="1735:1787" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="1799:1892" ph="///   &lt;para&gt;The position delta since last change.&lt;/para&gt; ... " />
+            <marker date="1563270415759" expanded="true" signature="1925:2064" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="1941:1994" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="2004:2058" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="2070:2204" ph="///   &lt;para&gt;Amount of time that has passed since the last recorded change in Touch values.&lt;/para&gt; ... " />
+            <marker date="1563270415759" expanded="true" signature="2231:2362" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="2247:2296" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="2306:2356" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="2368:2439" ph="///   &lt;para&gt;Number of taps.&lt;/para&gt; ... " />
+            <marker date="1563270415759" expanded="true" signature="2463:2592" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="2479:2527" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="2537:2586" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="2598:2687" ph="///   &lt;para&gt;Describes the phase of the touch.&lt;/para&gt; ... " />
+            <marker date="1563270415759" expanded="true" signature="2715:2838" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="2731:2776" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="2786:2832" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="2844:3112" ph="///   &lt;para&gt;The current amount of pressure being applied to a touch.  1.0f is considered to be the pressure of an ... " />
+            <marker date="1563270415759" expanded="true" signature="3138:3267" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="3154:3202" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="3212:3261" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="3273:3476" ph="///   &lt;para&gt;The maximum possible pressure value for a platform.  If Input.touchPressureSupported returns false, t ... " />
+            <marker date="1563270415759" expanded="true" signature="3517:3676" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="3533:3596" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="3606:3670" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="3682:3829" ph="///   &lt;para&gt;A value that indicates whether a touch was of Direct, Indirect (or remote), or Stylus type.&lt;/para&gt; ... " />
+            <marker date="1563270415759" expanded="true" signature="3855:3976" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="3871:3915" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="3925:3970" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="3982:4151" ph="///   &lt;para&gt;Value of 0 radians indicates that the stylus is parallel to the surface, pi/2 indicates that it is pe ... " />
+            <marker date="1563270415759" expanded="true" signature="4182:4321" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="4198:4251" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="4261:4315" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="4327:4470" ph="///   &lt;para&gt;Value of 0 radians indicates that the stylus is pointed along the x-axis of the device.&lt;/para&gt; ... " />
+            <marker date="1563270415759" expanded="true" signature="4500:4637" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="4516:4568" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="4578:4631" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="4643:4837" ph="///   &lt;para&gt;An estimated value of the radius of a touch.  Add radiusVariance to get the maximum touch size, subtr ... " />
+            <marker date="1563270415759" expanded="true" signature="4861:4986" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="4877:4923" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="4933:4980" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="4992:5206" ph="///   &lt;para&gt;This value determines the accuracy of the touch radius. Add this value to the radius to get the maxim ... " />
+            <marker date="1563270415759" expanded="true" signature="5238:5379" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="5254:5308" ph="{...}" />
+            <marker date="1563270415759" expanded="true" signature="5318:5373" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4F5285D-BB9E-4D19-9556-920BE8FBF17D/dc/40bce27b/TouchPhase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/TouchDemo/TouchDemo.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
           <folding>
-            <marker date="1563251410462" expanded="true" signature="6:100" ph="..." />
-            <marker date="1563251410462" expanded="true" signature="140:384" ph="{...}" />
-            <marker date="1563251410462" expanded="true" signature="190:211" ph="{...}" />
-            <marker date="1563251410462" expanded="true" signature="230:382" ph="{...}" />
-            <marker date="1563251410462" expanded="true" signature="295:376" ph="{...}" />
+            <marker date="1563272882753" expanded="true" signature="6:100" ph="..." />
+            <marker date="1563272882753" expanded="true" signature="140:942" ph="{...}" />
+            <marker date="1563272882753" expanded="true" signature="216:237" ph="{...}" />
+            <marker date="1563272882753" expanded="true" signature="256:940" ph="{...}" />
+            <marker date="1563272882753" expanded="true" signature="350:903" ph="{...}" />
           </folding>
         </state>
       </provider>
