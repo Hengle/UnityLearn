@@ -26,3 +26,7 @@ WyKey
 
 **Touch类剩余成员：**
 
+
+**互相调用模式之导出jar包，扩展MainActivity,Java主导**
+
+

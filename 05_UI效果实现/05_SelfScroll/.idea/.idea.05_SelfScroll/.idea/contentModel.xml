@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_05_SelfScroll.1464394384.00" t="ExcludeRecursive" />
+    <e p="E:\UnityLearn\05_UI效果实现\05_SelfScroll" t="IncludeRecursive">
+      <e p="05_SelfScroll.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Demo0" t="Include">
+          <e p="EnchanceScrollView.cs" t="Include" />
+        </e>
+        <e p="Demo1" t="Include">
+          <e p="attrTest.cs" t="Include" />
+          <e p="point_progress.cs" t="Include" />
+        </e>
+        <e p="EnhancedScroller v2" t="Include">
+          <e p="ChangeLog.txt" t="Include" />
+          <e p="Demos" t="Include">
+            <e p="01 Simple Demo" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="SimpleDemo.cs" t="Include" />
+            </e>
+            <e p="02 Multiple Cell Types" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="CellViewFooter.cs" t="Include" />
+              <e p="CellViewHeader.cs" t="Include" />
+              <e p="CellViewRow.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="MultipleCellTypesDemo.cs" t="Include" />
+            </e>
+            <e p="03 Selection Demo" t="Include">
+              <e p="InventoryCellView.cs" t="Include" />
+              <e p="InventoryData.cs" t="Include" />
+              <e p="SelectionDemo.cs" t="Include" />
+            </e>
+            <e p="04 Jump To Demo" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="05 Remote Resources" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="ImageList.cs" t="Include" />
+            </e>
+            <e p="06 Snapping" t="Include">
+              <e p="PlayWin.cs" t="Include" />
+              <e p="SlotCellView.cs" t="Include" />
+              <e p="SlotController.cs" t="Include" />
+              <e p="SlotData.cs" t="Include" />
+              <e p="SnappingDemo.cs" t="Include" />
+            </e>
+            <e p="07 Refreshing" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="08 View Driven Cell Sizes" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="09 Cell Events" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="10 Grid Simulation" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+              <e p="RowCellView.cs" t="Include" />
+            </e>
+            <e p="11 Pull Down Refresh" t="Include">
+              <e p="CellView.cs" t="Include" />
+              <e p="Controller.cs" t="Include" />
+              <e p="Data.cs" t="Include" />
+            </e>
+            <e p="12 Nested Scrollers" t="Include">
+              <e p="Controller.cs" t="Include" />
+              <e p="DetailCellView.cs" t="Include" />
+              <e p="DetailData.cs" t="Include" />
+              <e p="MasterCellView.cs" t="Include" />
+              <e p="MasterData.cs" t="Include" />
+              <e p="ScrollRectEx.cs" t="Include" />
+            </e>
+            <e p="Main Menu" t="Include">
+              <e p="MainMenu.cs" t="Include" />
+              <e p="ReturnToMainMenu.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="EnhancedScroller.cs" t="Include" />
+            <e p="EnhancedScrollerCellView.cs" t="Include" />
+            <e p="IEnhancedScrollerDelegate.cs" t="Include" />
+            <e p="SmallList.cs" t="Include" />
+          </e>
+          <e p="readme.txt" t="Include" />
+          <e p="Tutorials" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="upgrading from 1.x to 2.x.txt" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
