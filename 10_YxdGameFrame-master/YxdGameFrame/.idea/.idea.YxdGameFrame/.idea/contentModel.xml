@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_YxdGameFrame.1185655865.00" t="ExcludeRecursive" />
+    <e p="E:\UnityLearn\10_YxdGameFrame-master\YxdGameFrame" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AnimatorTrigger.cs" t="Include" />
+        <e p="GameFrame" t="Include">
+          <e p="Frame" t="Include">
+            <e p="Common" t="Include">
+              <e p="AndroidCommon.cs" t="Include" />
+              <e p="AssetBundleLoader.cs" t="Include" />
+              <e p="Common.cs" t="Include" />
+              <e p="CsvLibrary.cs" t="Include" />
+              <e p="Destroyer.cs" t="Include" />
+              <e p="EnumLabelAttribute.cs" t="Include" />
+              <e p="GameInput.cs" t="Include" />
+              <e p="IntHelper.cs" t="Include" />
+            </e>
+            <e p="Core" t="Include">
+              <e p="DebugMessage.cs" t="Include" />
+              <e p="EventSystem.cs" t="Include" />
+              <e p="MonoBase.cs" t="Include" />
+              <e p="MsgBase.cs" t="Include" />
+              <e p="MsgEngine.cs" t="Include" />
+              <e p="MsgEngineAgent.cs" t="Include" />
+              <e p="MsgEngineState.cs" t="Include" />
+              <e p="MsgHandler.cs" t="Include" />
+              <e p="MsgIDConst.cs" t="Include" />
+              <e p="Singleton.cs" t="Include" />
+              <e p="SingletonEntire.cs" t="Include" />
+              <e p="SingletonMono.cs" t="Include" />
+              <e p="SingletonMonoEntrie.cs" t="Include" />
+              <e p="UIBase.cs" t="Include" />
+              <e p="UIEventBase.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="AssetBuilder.cs" t="Include" />
+              <e p="CreateProjectDir.cs" t="Include" />
+              <e p="SaveSprite.cs" t="Include" />
+            </e>
+            <e p="Manager" t="Include">
+              <e p="AudioManager.cs" t="Include" />
+              <e p="DataManager.cs" t="Include" />
+              <e p="DialogManager.cs" t="Include" />
+              <e p="MemoryManager.cs" t="Include" />
+            </e>
+            <e p="Net" t="Include">
+              <e p="TCPClient.cs" t="Include" />
+              <e p="UDPClient.cs" t="Include" />
+            </e>
+            <e p="Shader" t="Include">
+              <e p="SceneFadeInOut.shader" t="Include" />
+            </e>
+            <e p="UGUI" t="Include">
+              <e p="ButtonEx.cs" t="Include" />
+              <e p="Dialog.cs" t="Include" />
+              <e p="DialogCloseButton.cs" t="Include" />
+              <e p="DialogGrid.cs" t="Include" />
+              <e p="DropDrag.cs" t="Include" />
+              <e p="InputEx.cs" t="Include" />
+              <e p="ListViewLayoutGroup.cs" t="Include" />
+              <e p="SceneFadeInOut.cs" t="Include" />
+              <e p="UICommon.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Plugins" t="Include">
+            <e p="JSON" t="Include">
+              <e p="SimpleJSON.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Z_Test" t="Include">
+            <e p="Demo.cs" t="Include" />
+            <e p="EngineTest.cs" t="Include" />
+            <e p="EngineTest2.cs" t="Include" />
+            <e p="EngineTestSend.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="YxdGameFrame.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

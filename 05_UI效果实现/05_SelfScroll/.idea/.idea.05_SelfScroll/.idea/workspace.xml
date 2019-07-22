@@ -1,341 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Assets/Demo2/ButtonEx.cs" line="17" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="44575575-1d0e-4dd3-bf72-c2a4cb666d80" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/Demo0.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/Demo0/Demo0.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/Demo0/Demo0.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/Demo0/EnchanceScrollView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/Demo0/EnchanceScrollView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/ChangeLog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/ChangeLog.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/01 Simple Demo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/01 Simple Demo/01.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/01 Simple Demo/01.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/01 Simple Demo/CellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/01 Simple Demo/CellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/01 Simple Demo/CellView.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/01 Simple Demo/CellView.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/01 Simple Demo/Data.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/01 Simple Demo/Data.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/01 Simple Demo/SimpleDemo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/01 Simple Demo/SimpleDemo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/02.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/02.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellViewFooter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellViewFooter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellViewFooter.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellViewFooter.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellViewHeader.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellViewHeader.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellViewHeader.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellViewHeader.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellViewRow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellViewRow.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellViewRow.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/CellViewRow.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/Data.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/Data.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/MultipleCellTypesDemo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/02 Multiple Cell Types/MultipleCellTypesDemo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/03 Selection Demo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/03 Selection Demo/03.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/03 Selection Demo/03.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/03 Selection Demo/InventoryCellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/03 Selection Demo/InventoryCellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/03 Selection Demo/InventoryData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/03 Selection Demo/InventoryData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/03 Selection Demo/SelectionDemo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/03 Selection Demo/SelectionDemo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/03 Selection Demo/hInventoryCellView.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/03 Selection Demo/hInventoryCellView.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/03 Selection Demo/vInventoryCellView.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/03 Selection Demo/vInventoryCellView.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/04 Jump To Demo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/04 Jump To Demo/04.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/04 Jump To Demo/04.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/04 Jump To Demo/CellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/04 Jump To Demo/CellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/04 Jump To Demo/CellView.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/04 Jump To Demo/CellView.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/04 Jump To Demo/Controller.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/04 Jump To Demo/Controller.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/04 Jump To Demo/Data.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/04 Jump To Demo/Data.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/05 Remote Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/05 Remote Resources/05.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/05 Remote Resources/05.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/05 Remote Resources/CellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/05 Remote Resources/CellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/05 Remote Resources/CellView.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/05 Remote Resources/CellView.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/05 Remote Resources/Controller.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/05 Remote Resources/Controller.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/05 Remote Resources/Data.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/05 Remote Resources/Data.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/05 Remote Resources/ImageList.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/05 Remote Resources/ImageList.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/06.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/06.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/PlayWin.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/PlayWin.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/SlotCellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/SlotCellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/SlotCellView.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/SlotCellView.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/SlotController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/SlotController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/SlotData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/SlotData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/Slots Scroller.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/Slots Scroller.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/SnappingDemo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/06 Snapping/SnappingDemo.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/07 Refreshing.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/07 Refreshing/07.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/07 Refreshing/07.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/07 Refreshing/CellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/07 Refreshing/CellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/07 Refreshing/CellView.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/07 Refreshing/CellView.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/07 Refreshing/Controller.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/07 Refreshing/Controller.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/07 Refreshing/Data.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/07 Refreshing/Data.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/08 View Driven Cell Sizes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/08 View Driven Cell Sizes/08.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/08 View Driven Cell Sizes/08.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/08 View Driven Cell Sizes/CellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/08 View Driven Cell Sizes/CellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/08 View Driven Cell Sizes/CellView.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/08 View Driven Cell Sizes/CellView.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/08 View Driven Cell Sizes/Controller.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/08 View Driven Cell Sizes/Controller.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/08 View Driven Cell Sizes/Data.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/08 View Driven Cell Sizes/Data.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/09 Cell Events.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/09 Cell Events/09.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/09 Cell Events/09.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/09 Cell Events/CellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/09 Cell Events/CellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/09 Cell Events/CellView.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/09 Cell Events/CellView.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/09 Cell Events/Controller.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/09 Cell Events/Controller.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/09 Cell Events/Data.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/09 Cell Events/Data.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/10 Grid Simulation.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/10 Grid Simulation/10.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/10 Grid Simulation/10.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/10 Grid Simulation/CellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/10 Grid Simulation/CellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/10 Grid Simulation/CellView.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/10 Grid Simulation/CellView.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/10 Grid Simulation/Controller.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/10 Grid Simulation/Controller.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/10 Grid Simulation/Data.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/10 Grid Simulation/Data.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/10 Grid Simulation/RowCellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/10 Grid Simulation/RowCellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/11 Pull Down Refresh.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/11 Pull Down Refresh/11.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/11 Pull Down Refresh/11.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/11 Pull Down Refresh/CellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/11 Pull Down Refresh/CellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/11 Pull Down Refresh/CellView.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/11 Pull Down Refresh/CellView.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/11 Pull Down Refresh/Controller.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/11 Pull Down Refresh/Controller.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/11 Pull Down Refresh/Data.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/11 Pull Down Refresh/Data.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/12.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/12.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/Controller.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/Controller.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/DetailCellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/DetailCellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/DetailCellView.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/DetailCellView.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/DetailData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/DetailData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/MasterCellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/MasterCellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/MasterCellView.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/MasterCellView.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/MasterData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/MasterData.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/ScrollRectEx.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/12 Nested Scrollers/ScrollRectEx.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Main Menu.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Main Menu/MainMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Main Menu/MainMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Main Menu/MainMenu.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Main Menu/MainMenu.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Main Menu/ReturnToMainMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Main Menu/ReturnToMainMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Fonts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Fonts/IMMORTAL.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Fonts/IMMORTAL.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Fonts/Infinium Guardian.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Fonts/Infinium Guardian.ttf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Multiple Cell Type Demo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Multiple Cell Type Demo/avatar_female.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Multiple Cell Type Demo/avatar_female.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Multiple Cell Type Demo/avatar_male.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Multiple Cell Type Demo/avatar_male.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/amulet_h.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/amulet_h.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/amulet_v.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/amulet_v.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/boots_h.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/boots_h.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/boots_v.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/boots_v.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/bracers_h.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/bracers_h.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/bracers_v.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/bracers_v.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/crossbow_h.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/crossbow_h.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/crossbow_v.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/crossbow_v.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/fireRing_h.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/fireRing_h.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/fireRing_v.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/fireRing_v.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/helmet_h.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/helmet_h.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/helmet_v.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/helmet_v.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/knapsack_h.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/knapsack_h.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/knapsack_v.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/knapsack_v.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/shield_h.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/shield_h.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/shield_v.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/shield_v.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/sword_h.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/sword_h.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/sword_v.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Resources/Selection Demo/sword_v.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Return to Main Menu Button.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Return to Main Menu Button.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/border.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/border.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/border_small.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/border_small.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/coin.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/coin.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/damage.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/damage.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/defense.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/defense.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/footer.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/footer.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/halo.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/halo.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/header.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/header.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/icon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/jumpoffset.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/jumpoffset.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/loading.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/loading.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/menuHeader.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/menuHeader.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/row.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/row.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/scifiBorder.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/scifiBorder.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/scroll.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/scroll.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_7.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_banana.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_banana.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_bigwin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_bigwin.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_blank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_blank.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_cherry.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_cherry.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_grape.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_grape.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_lemon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_lemon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_orange.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_orange.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_triplebar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_triplebar.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_watermelon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slots_watermelon.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slotsbackground.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slotsbackground.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slotsborder.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slotsborder.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slotsoverlay.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/slotsoverlay.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/stripe.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/stripe.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/weight.psd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/weight.psd.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/winner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Demos/Shared Files/Sprites/winner.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Documentation.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Documentation/EnhancedScroller_User_Manual.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Documentation/EnhancedScroller_User_Manual.pdf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Plugins.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Plugins/EnhancedScroller.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Plugins/EnhancedScroller.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Plugins/EnhancedScrollerCellView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Plugins/EnhancedScrollerCellView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Plugins/IEnhancedScrollerDelegate.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Plugins/IEnhancedScrollerDelegate.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Plugins/SmallList.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Plugins/SmallList.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Tutorials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Tutorials/01 - Quick Start Tutorial.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Tutorials/01 - Quick Start Tutorial.pdf.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Tutorials/01 - Quick Start Tutorial.unitypackage" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Tutorials/01 - Quick Start Tutorial.unitypackage.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Tutorials/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/Tutorials/readme.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/readme.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/upgrading from 1.x to 2.x.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Assets/EnhancedScroller v2/upgrading from 1.x to 2.x.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/Packages/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/AudioManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/EditorSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/InputManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/NetworkManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/PresetManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/QualitySettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/TagManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/TimeManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_SelfScroll/05_SelfScroll/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10_YxdGameFrame-master/YxdGameFrame/.idea/.idea.YxdGameFrame/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_android/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_android/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_android/Library/StateCache/Hierarchy/08c999-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_android/Library/StateCache/Hierarchy/08c999-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_android/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_android/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_android/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_android/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_android/Temp/ProcessJobs/b89df42499bb84ffb3fe8531d841477f.bakert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03_android/Temp/UnityLockfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.05_SelfScroll/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.05_SelfScroll/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.05_SelfScroll/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.05_SelfScroll/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/44f6f6-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/44f6f6-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/58b853-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/58b853-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityLockfile" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/UnityLockfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-00b6cbe4007cb8b4595f6e84c423d12b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-07da1c02360165a4d89385abd0351bf8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-104018fa927b09d4d99fd02f69e9bbcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-131e4854b0acd7542a2b63110f3dc2a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-13c85430c1ec7694d913c313acfd9b9e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-25343f8df4ce1cc42897f332c425322c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-26374334d0e698045a02a96a69ce4797" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4290aee689960034a9a25954f6d16e9d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-453a227605f887b4bb8988590b6b557b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-643ce15776bf9ea4cbda631f2486c174" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6c9ea58a708e4fd4c9213891dd1ffe79" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-757a0f1b71da6b94e8696a1b37859414" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-78a0a1b78f4108e4087835318254f197" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-79d83f8afd455c64a89c1dbf668868be" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-82bb78c506693fb4084845a8c5d4797e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-96b02fb17a12ba54ea605b62f89b4231" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9a7da4a8db2f1734f8f79a35dffde03f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9bba1475f70c68549ac9351a00f3f236" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9cea60a5da30f464cad64269165c0acb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9ef4c0220eef8114baa4277e0c1d5ac8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a1e2b7464602367458fbfb3151ac1b77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-afc46f01fc2d9c24e9d86459ef118ebe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b238516e2a85c144a9f2249821eda467" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c2a640263e2205047afe72ff7f1f93d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c97e871ece48c434e851795a5b82df92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cc309ae0ce9045b40985d8f9a8616545" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d94a8d3279053424bb94ead09a832119" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-db539961e66ce37418ff5bdbaeda5248" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-df4e1963a1303094faddee01716f1a3f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e5fb0a63d623b294686901d399640d61" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e81b60efbeaa4f04aab1e0737d2033f1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-eb9000f188f16ee4b9802c975233898b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ed75557dddf51d14f8662b6a0a0d0a76" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_FancyScrollView/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_FancyScrollView/ProjectSettings/EditorSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -344,20 +68,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70258BA2-00B0-4992-8EBA-C1FDD2C06322/a5/2b6ccbe1/Graphic.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
+            <state relative-caret-position="1680">
               <caret line="119" column="30" selection-start-line="119" selection-start-column="30" selection-end-line="119" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Demo1/attrTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-180">
+            <state>
               <folding>
                 <marker date="1563509317481" expanded="false" signature="6:100" ph="..." />
                 <marker date="1563509317481" expanded="true" signature="133:1108" ph="{...}" />
@@ -374,11 +98,144 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Demo2/ButtonEx.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+              <folding>
+                <marker date="1563787681693" expanded="true" signature="23:256" ph="..." />
+                <marker date="1563787681693" expanded="true" signature="282:9675" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="289:352" ph="/// 扩展 ButtonEx, 支持更多的事件设计 ... " />
+                <marker date="1563787681693" expanded="true" signature="619:9671" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="643:698" ph="/// 长按等待时间 ... " />
+                <marker date="1563787681693" expanded="true" signature="753:811" ph="/// 不断的产生长按事件 ... " />
+                <marker date="1563787681693" expanded="true" signature="1875:1896" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="1914:1966" ph="/// 文本值 ... " />
+                <marker date="1563787681693" expanded="true" signature="1993:2336" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="2019:2178" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="2195:2326" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="2446:2500" ph="/// 是否被按下 ... " />
+                <marker date="1563787681693" expanded="true" signature="2527:2594" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="2612:2665" ph="/// 是否进入 ... " />
+                <marker date="1563787681693" expanded="true" signature="2693:2749" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="2759:2812" ph="/// 点击事件 ... " />
+                <marker date="1563787681693" expanded="true" signature="2854:2942" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="2960:3013" ph="/// 长按事件 ... " />
+                <marker date="1563787681693" expanded="true" signature="3059:3155" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="3165:3218" ph="/// 按下事件 ... " />
+                <marker date="1563787681693" expanded="true" signature="3259:3345" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="3363:3416" ph="/// 松开事件 ... " />
+                <marker date="1563787681693" expanded="true" signature="3455:3537" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="3555:3608" ph="/// 进入事件 ... " />
+                <marker date="1563787681693" expanded="true" signature="3650:3738" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="3748:3801" ph="/// 离开事件 ... " />
+                <marker date="1563787681693" expanded="true" signature="3842:3928" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="3989:4381" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="4411:4546" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="4576:4787" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="4819:5156" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="4938:5031" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="5048:5134" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="5186:5291" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="5321:5437" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="5508:5655" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="5729:6205" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="5800:6194" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="5873:6084" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="6105:6180" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="6250:6342" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="6424:6617" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="6689:6901" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="6980:7182" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="7256:7377" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="7449:7569" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="7642:7938" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="7984:8320" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="8119:8237" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="8367:8766" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="8592:8733" ph="{...}" />
+                <marker date="1563787681693" expanded="true" signature="8910:9649" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Demo2/UICommon.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+              <folding>
+                <marker date="1563783533829" expanded="false" signature="6:97" ph="..." />
+                <marker date="1563783533829" expanded="true" signature="123:3466" ph="{...}" />
+                <marker date="1563783533829" expanded="true" signature="151:3454" ph="{...}" />
+                <marker date="1563783533829" expanded="true" signature="166:312" ph="/// 创建根结点UI对象 ... " />
+                <marker date="1563783533829" expanded="true" signature="393:581" ph="{...}" />
+                <marker date="1563783533829" expanded="true" signature="600:780" ph="/// 创建根结点UI对象 ... " />
+                <marker date="1563783533829" expanded="true" signature="865:943" ph="{...}" />
+                <marker date="1563783533829" expanded="true" signature="961:1152" ph="/// 创建UI Text 控件 ... " />
+                <marker date="1563783533829" expanded="true" signature="1244:1717" ph="{...}" />
+                <marker date="1563783533829" expanded="true" signature="1735:1878" ph="/// 创建UI对象 ... " />
+                <marker date="1563783533829" expanded="true" signature="1959:2132" ph="{...}" />
+                <marker date="1563783533829" expanded="true" signature="2150:2207" ph="/// 设置父级对齐方式 ... " />
+                <marker date="1563783533829" expanded="true" signature="2290:2422" ph="{...}" />
+                <marker date="1563783533829" expanded="true" signature="2432:2498" ph="/// 放置UI对象到UI层Canvas中 ... " />
+                <marker date="1563783533829" expanded="true" signature="2590:3446" ph="{...}" />
+                <marker date="1563783533829" expanded="true" signature="2757:2840" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Demo2/Demo2.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+              <folding>
+                <marker date="1563784089126" expanded="true" signature="6:40" ph="..." />
+                <marker date="1563784089126" expanded="true" signature="77:207" ph="{...}" />
+                <marker date="1563784089126" expanded="true" signature="115:203" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70258BA2-00B0-4992-8EBA-C1FDD2C06322/95/cf568954/UIBehaviour.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>color</find>
+      <find>IsActive</find>
+      <find>Down</find>
+      <find>onLongWaitTime</find>
+      <find>onLongContinue</find>
+      <find>OnSubmit</find>
+      <find>OnLongClick</find>
+      <find>onUp</find>
+      <find>onClick</find>
+      <find>onLongClick</find>
+      <find>isLong</find>
+      <find>LongClick</find>
+      <find>grow</find>
+      <find>isDown</find>
+      <find>isPointerDown</find>
+      <find>Click</find>
+      <find>Press</find>
+      <find>UP</find>
+      <find>OnPo</find>
+      <find>Up</find>
+      <find>m_OnClick</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -386,6 +243,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Demo1/attrTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Demo2/Demo2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70258BA2-00B0-4992-8EBA-C1FDD2C06322/30/28d80823/Selectable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70258BA2-00B0-4992-8EBA-C1FDD2C06322/95/cf568954/UIBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Demo2/ButtonEx.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Demo2/UICommon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70258BA2-00B0-4992-8EBA-C1FDD2C06322/a5/2b6ccbe1/Graphic.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -393,6 +255,9 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Demo2/attrTest.cs" />
         <option value="$PROJECT_DIR$/Assets/Demo2/point_progress.cs" />
+        <option value="$PROJECT_DIR$/Assets/Demo2/UICommon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Demo2/Demo2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Demo2/ButtonEx.cs" />
       </list>
     </option>
   </component>
@@ -404,10 +269,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1921" />
-    <option name="y" value="216" />
+    <option name="x" value="2158" />
+    <option name="y" value="69" />
     <option name="width" value="1520" />
-    <option name="height" value="921" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -430,6 +295,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -475,11 +341,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563505956929</updated>
       <workItem from="1563505962090" duration="6789000" />
+      <workItem from="1563764842849" duration="16748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6789000" />
+    <option name="totallyTimeSpent" value="23537000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -491,23 +358,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1921" y="216" width="1520" height="921" extended-state="0" />
+    <frame x="2158" y="69" width="1520" height="1100" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25342464" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="LuaCheck" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -515,13 +373,23 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="LuaCheck" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Unity" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Unit Tests" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="15" />
+      <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -540,44 +408,20 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Demo2/attrstar.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Demo2/attrstar.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Demo2/attrTest.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Demo1/attrStar.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Demo2/point_progress.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70258BA2-00B0-4992-8EBA-C1FDD2C06322/a5/2b6ccbe1/Graphic.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
+        <state relative-caret-position="1680">
           <caret line="119" column="30" selection-start-line="119" selection-start-column="30" selection-end-line="119" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Demo2/attrTest.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Demo1/attrStar.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Demo2/point_progress.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Demo1/attrTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
+        <state>
           <folding>
             <marker date="1563509317481" expanded="false" signature="6:100" ph="..." />
             <marker date="1563509317481" expanded="true" signature="133:1108" ph="{...}" />
@@ -589,6 +433,118 @@
             <marker date="1563509317481" expanded="true" signature="750:841" ph="{...}" />
             <marker date="1563509317481" expanded="true" signature="895:977" ph="{...}" />
             <marker date="1563509317481" expanded="true" signature="1027:1088" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70258BA2-00B0-4992-8EBA-C1FDD2C06322/95/cf568954/UIBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/70258BA2-00B0-4992-8EBA-C1FDD2C06322/30/28d80823/Selectable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Demo2/UICommon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <marker date="1563783533829" expanded="false" signature="6:97" ph="..." />
+            <marker date="1563783533829" expanded="true" signature="123:3466" ph="{...}" />
+            <marker date="1563783533829" expanded="true" signature="151:3454" ph="{...}" />
+            <marker date="1563783533829" expanded="true" signature="166:312" ph="/// 创建根结点UI对象 ... " />
+            <marker date="1563783533829" expanded="true" signature="393:581" ph="{...}" />
+            <marker date="1563783533829" expanded="true" signature="600:780" ph="/// 创建根结点UI对象 ... " />
+            <marker date="1563783533829" expanded="true" signature="865:943" ph="{...}" />
+            <marker date="1563783533829" expanded="true" signature="961:1152" ph="/// 创建UI Text 控件 ... " />
+            <marker date="1563783533829" expanded="true" signature="1244:1717" ph="{...}" />
+            <marker date="1563783533829" expanded="true" signature="1735:1878" ph="/// 创建UI对象 ... " />
+            <marker date="1563783533829" expanded="true" signature="1959:2132" ph="{...}" />
+            <marker date="1563783533829" expanded="true" signature="2150:2207" ph="/// 设置父级对齐方式 ... " />
+            <marker date="1563783533829" expanded="true" signature="2290:2422" ph="{...}" />
+            <marker date="1563783533829" expanded="true" signature="2432:2498" ph="/// 放置UI对象到UI层Canvas中 ... " />
+            <marker date="1563783533829" expanded="true" signature="2590:3446" ph="{...}" />
+            <marker date="1563783533829" expanded="true" signature="2757:2840" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Demo2/Demo2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding>
+            <marker date="1563784089126" expanded="true" signature="6:40" ph="..." />
+            <marker date="1563784089126" expanded="true" signature="77:207" ph="{...}" />
+            <marker date="1563784089126" expanded="true" signature="115:203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Demo2/ButtonEx.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+          <folding>
+            <marker date="1563787681693" expanded="true" signature="23:256" ph="..." />
+            <marker date="1563787681693" expanded="true" signature="282:9675" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="289:352" ph="/// 扩展 ButtonEx, 支持更多的事件设计 ... " />
+            <marker date="1563787681693" expanded="true" signature="619:9671" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="643:698" ph="/// 长按等待时间 ... " />
+            <marker date="1563787681693" expanded="true" signature="753:811" ph="/// 不断的产生长按事件 ... " />
+            <marker date="1563787681693" expanded="true" signature="1875:1896" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="1914:1966" ph="/// 文本值 ... " />
+            <marker date="1563787681693" expanded="true" signature="1993:2336" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="2019:2178" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="2195:2326" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="2446:2500" ph="/// 是否被按下 ... " />
+            <marker date="1563787681693" expanded="true" signature="2527:2594" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="2612:2665" ph="/// 是否进入 ... " />
+            <marker date="1563787681693" expanded="true" signature="2693:2749" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="2759:2812" ph="/// 点击事件 ... " />
+            <marker date="1563787681693" expanded="true" signature="2854:2942" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="2960:3013" ph="/// 长按事件 ... " />
+            <marker date="1563787681693" expanded="true" signature="3059:3155" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="3165:3218" ph="/// 按下事件 ... " />
+            <marker date="1563787681693" expanded="true" signature="3259:3345" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="3363:3416" ph="/// 松开事件 ... " />
+            <marker date="1563787681693" expanded="true" signature="3455:3537" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="3555:3608" ph="/// 进入事件 ... " />
+            <marker date="1563787681693" expanded="true" signature="3650:3738" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="3748:3801" ph="/// 离开事件 ... " />
+            <marker date="1563787681693" expanded="true" signature="3842:3928" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="3989:4381" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="4411:4546" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="4576:4787" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="4819:5156" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="4938:5031" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="5048:5134" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="5186:5291" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="5321:5437" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="5508:5655" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="5729:6205" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="5800:6194" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="5873:6084" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="6105:6180" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="6250:6342" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="6424:6617" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="6689:6901" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="6980:7182" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="7256:7377" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="7449:7569" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="7642:7938" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="7984:8320" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="8119:8237" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="8367:8766" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="8592:8733" ph="{...}" />
+            <marker date="1563787681693" expanded="true" signature="8910:9649" ph="{...}" />
           </folding>
         </state>
       </provider>

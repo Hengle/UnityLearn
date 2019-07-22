@@ -60,6 +60,9 @@
     <Compile Include="Assets\Demo0\EnchanceScrollView.cs" />
     <Compile Include="Assets\Demo1\attrTest.cs" />
     <Compile Include="Assets\Demo1\point_progress.cs" />
+    <Compile Include="Assets\Demo2\ButtonEx.cs" />
+    <Compile Include="Assets\Demo2\Demo2.cs" />
+    <Compile Include="Assets\Demo2\UICommon.cs" />
     <Compile Include="Assets\EnhancedScroller v2\Demos\01 Simple Demo\CellView.cs" />
     <Compile Include="Assets\EnhancedScroller v2\Demos\01 Simple Demo\Data.cs" />
     <Compile Include="Assets\EnhancedScroller v2\Demos\01 Simple Demo\SimpleDemo.cs" />

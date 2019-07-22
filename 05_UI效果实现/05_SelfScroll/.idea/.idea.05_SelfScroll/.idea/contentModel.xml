@@ -14,6 +14,11 @@
           <e p="attrTest.cs" t="Include" />
           <e p="point_progress.cs" t="Include" />
         </e>
+        <e p="Demo2" t="Include">
+          <e p="ButtonEx.cs" t="Include" />
+          <e p="Demo2.cs" t="Include" />
+          <e p="UICommon.cs" t="Include" />
+        </e>
         <e p="EnhancedScroller v2" t="Include">
           <e p="ChangeLog.txt" t="Include" />
           <e p="Demos" t="Include">
