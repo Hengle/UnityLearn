@@ -4,63 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Assets/Demo2/ButtonEx.cs" line="17" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44575575-1d0e-4dd3-bf72-c2a4cb666d80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../10_YxdGameFrame-master/YxdGameFrame/.idea/.idea.YxdGameFrame/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_android/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_android/Library/CurrentLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_android/Library/StateCache/Hierarchy/08c999-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_android/Library/StateCache/Hierarchy/08c999-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_android/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_android/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_android/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_android/Library/expandedItems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_android/Temp/ProcessJobs/b89df42499bb84ffb3fe8531d841477f.bakert" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_android/Temp/UnityLockfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.05_SelfScroll/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.05_SelfScroll/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.05_SelfScroll/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.05_SelfScroll/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastSceneManagerSetup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/44f6f6-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/44f6f6-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/58b853-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/58b853-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityLockfile" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/UnityLockfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-00b6cbe4007cb8b4595f6e84c423d12b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-07da1c02360165a4d89385abd0351bf8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-104018fa927b09d4d99fd02f69e9bbcd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-131e4854b0acd7542a2b63110f3dc2a9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-13c85430c1ec7694d913c313acfd9b9e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-25343f8df4ce1cc42897f332c425322c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-26374334d0e698045a02a96a69ce4797" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4290aee689960034a9a25954f6d16e9d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-453a227605f887b4bb8988590b6b557b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-643ce15776bf9ea4cbda631f2486c174" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-6c9ea58a708e4fd4c9213891dd1ffe79" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-757a0f1b71da6b94e8696a1b37859414" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-78a0a1b78f4108e4087835318254f197" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-79d83f8afd455c64a89c1dbf668868be" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-82bb78c506693fb4084845a8c5d4797e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-96b02fb17a12ba54ea605b62f89b4231" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9a7da4a8db2f1734f8f79a35dffde03f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9bba1475f70c68549ac9351a00f3f236" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9cea60a5da30f464cad64269165c0acb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-9ef4c0220eef8114baa4277e0c1d5ac8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a1e2b7464602367458fbfb3151ac1b77" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-afc46f01fc2d9c24e9d86459ef118ebe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b238516e2a85c144a9f2249821eda467" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c2a640263e2205047afe72ff7f1f93d0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c97e871ece48c434e851795a5b82df92" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-cc309ae0ce9045b40985d8f9a8616545" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d94a8d3279053424bb94ead09a832119" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-db539961e66ce37418ff5bdbaeda5248" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-df4e1963a1303094faddee01716f1a3f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e5fb0a63d623b294686901d399640d61" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e81b60efbeaa4f04aab1e0737d2033f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-eb9000f188f16ee4b9802c975233898b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ed75557dddf51d14f8662b6a0a0d0a76" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../07_FancyScrollView/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_FancyScrollView/ProjectSettings/EditorSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="44575575-1d0e-4dd3-bf72-c2a4cb666d80" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Demo2/ButtonEx.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+            <state relative-caret-position="452">
+              <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
               <folding>
                 <marker date="1563787681693" expanded="true" signature="23:256" ph="..." />
                 <marker date="1563787681693" expanded="true" signature="282:9675" ph="{...}" />
@@ -192,7 +136,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Demo2/Demo2.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
               <folding>
                 <marker date="1563784089126" expanded="true" signature="6:40" ph="..." />
                 <marker date="1563784089126" expanded="true" signature="77:207" ph="{...}" />
@@ -269,8 +213,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2158" />
-    <option name="y" value="69" />
+    <option name="x" value="2029" />
+    <option name="y" value="87" />
     <option name="width" value="1520" />
     <option name="height" value="1100" />
   </component>
@@ -341,12 +285,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563505956929</updated>
       <workItem from="1563505962090" duration="6789000" />
-      <workItem from="1563764842849" duration="16748000" />
+      <workItem from="1563764842849" duration="17377000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23537000" />
+    <option name="totallyTimeSpent" value="24166000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,8 +302,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2158" y="69" width="1520" height="1100" extended-state="0" />
-    <editor active="true" />
+    <frame x="2029" y="87" width="1520" height="1100" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25342464" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -479,7 +422,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Demo2/Demo2.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
           <folding>
             <marker date="1563784089126" expanded="true" signature="6:40" ph="..." />
             <marker date="1563784089126" expanded="true" signature="77:207" ph="{...}" />
@@ -490,8 +433,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Demo2/ButtonEx.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+        <state relative-caret-position="452">
+          <caret line="64" column="8" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
           <folding>
             <marker date="1563787681693" expanded="true" signature="23:256" ph="..." />
             <marker date="1563787681693" expanded="true" signature="282:9675" ph="{...}" />
