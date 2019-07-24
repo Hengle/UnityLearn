@@ -2,63 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c30c898-d45a-4898-9312-50e280f5707a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.YxdGameFrame/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_android/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_android/Library/CurrentLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_android/Library/StateCache/Hierarchy/08c999-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_android/Library/StateCache/Hierarchy/08c999-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_android/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_android/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_android/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_android/Library/expandedItems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_android/Temp/ProcessJobs/b89df42499bb84ffb3fe8531d841477f.bakert" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_android/Temp/UnityLockfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/.idea/.idea.05_SelfScroll/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/.idea/.idea.05_SelfScroll/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/.idea/.idea.05_SelfScroll/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/.idea/.idea.05_SelfScroll/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/.idea/.idea.05_SelfScroll/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/.idea/.idea.05_SelfScroll/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/CurrentLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/EditorInstance.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/LastSceneManagerSetup.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/ProtocolInstance.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/StateCache/Hierarchy/44f6f6-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/StateCache/Hierarchy/44f6f6-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/StateCache/SceneView/58b853-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/StateCache/SceneView/58b853-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Library/expandedItems" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityLockfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-00b6cbe4007cb8b4595f6e84c423d12b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-07da1c02360165a4d89385abd0351bf8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-104018fa927b09d4d99fd02f69e9bbcd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-131e4854b0acd7542a2b63110f3dc2a9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-13c85430c1ec7694d913c313acfd9b9e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-25343f8df4ce1cc42897f332c425322c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-26374334d0e698045a02a96a69ce4797" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-4290aee689960034a9a25954f6d16e9d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-453a227605f887b4bb8988590b6b557b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-643ce15776bf9ea4cbda631f2486c174" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-6c9ea58a708e4fd4c9213891dd1ffe79" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-757a0f1b71da6b94e8696a1b37859414" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-78a0a1b78f4108e4087835318254f197" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-79d83f8afd455c64a89c1dbf668868be" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-82bb78c506693fb4084845a8c5d4797e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-96b02fb17a12ba54ea605b62f89b4231" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-9a7da4a8db2f1734f8f79a35dffde03f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-9bba1475f70c68549ac9351a00f3f236" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-9cea60a5da30f464cad64269165c0acb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-9ef4c0220eef8114baa4277e0c1d5ac8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-a1e2b7464602367458fbfb3151ac1b77" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-afc46f01fc2d9c24e9d86459ef118ebe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-b238516e2a85c144a9f2249821eda467" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-c2a640263e2205047afe72ff7f1f93d0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-c97e871ece48c434e851795a5b82df92" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-cc309ae0ce9045b40985d8f9a8616545" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-d94a8d3279053424bb94ead09a832119" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-db539961e66ce37418ff5bdbaeda5248" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-df4e1963a1303094faddee01716f1a3f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-e5fb0a63d623b294686901d399640d61" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-e81b60efbeaa4f04aab1e0737d2033f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-eb9000f188f16ee4b9802c975233898b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/UnityTempFile-ed75557dddf51d14f8662b6a0a0d0a76" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../05_UI效果实现/05_SelfScroll/Temp/__Backupscenes/0.backup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../07_FancyScrollView/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_FancyScrollView/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.YxdGameFrame/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.YxdGameFrame/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.YxdGameFrame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.YxdGameFrame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/44f6f6-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/44f6f6-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/58b853-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/58b853-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/ButtonEx.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-48">
-              <caret line="251" column="4" selection-start-line="251" selection-start-column="4" selection-end-line="257" selection-end-column="9" />
+            <state relative-caret-position="1215">
+              <caret line="257" column="9" lean-forward="true" selection-start-line="257" selection-start-column="9" selection-end-line="257" selection-end-column="9" />
               <folding>
                 <marker date="1563763458158" expanded="false" signature="23:190" ph="..." />
                 <marker date="1563763458158" expanded="true" signature="217:7589" ph="{...}" />
@@ -134,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/UICommon.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="206" column="60" selection-start-line="206" selection-start-column="33" selection-end-line="206" selection-end-column="60" />
+            <state relative-caret-position="360">
+              <caret line="39" column="50" lean-forward="true" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
               <folding>
                 <marker date="1471417578000" expanded="false" signature="6:209" ph="..." />
                 <marker date="1471417578000" expanded="true" signature="236:11466" ph="{...}" />
@@ -187,10 +137,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Z_Test/Demo.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="195">
+              <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
               <folding>
-                <marker date="1471417578000" expanded="false" signature="6:83" ph="..." />
+                <marker date="1471417578000" expanded="true" signature="6:83" ph="..." />
                 <marker date="1471417578000" expanded="true" signature="119:1293" ph="{...}" />
                 <marker date="1471417578000" expanded="true" signature="151:169" ph="{...}" />
                 <marker date="1471417578000" expanded="true" signature="203:276" ph="{...}" />
@@ -199,6 +149,130 @@
                 <marker date="1471417578000" expanded="true" signature="832:869" ph="{...}" />
                 <marker date="1471417578000" expanded="true" signature="1090:1291" ph="{...}" />
                 <marker date="1471417578000" expanded="true" signature="1180:1206" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Z_Test/EngineTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <marker date="1471417578000" expanded="false" signature="6:61" ph="..." />
+                <marker date="1471417578000" expanded="true" signature="111:672" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="162:236" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="252:270" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="286:577" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="362:424" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="595:670" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/SceneFadeInOut.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-720">
+              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <folding>
+                <marker date="1471417578000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1471417578000" expanded="true" signature="70:2281" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="74:156" ph="/// 场景淡入淡出 (将此脚本挂在UGUI Canvas 上) Scene fade in out. ... " />
+                <marker date="1471417578000" expanded="true" signature="266:2279" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="497:531" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="549:630" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="661:1341" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1368:1430" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1453:1521" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1544:1612" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1634:1766" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1686:1762" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1786:1992" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1839:1988" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1996:2076" ph="/// 进入场景 ... " />
+                <marker date="1471417578000" expanded="true" signature="2114:2276" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/ListViewLayoutGroup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+              <folding>
+                <marker date="1471417578000" expanded="false" signature="23:207" ph="..." />
+                <marker date="1471417578000" expanded="true" signature="233:8116" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="237:298" ph="/// 列表视图布局 ... " />
+                <marker date="1471417578000" expanded="true" signature="414:8114" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="446:478" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="513:518" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="582:704" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="766:847" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="900:978" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1029:1107" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1707:1794" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1879:1968" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2087:2202" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2129:2198" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2261:3597" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2557:3340" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2927:3134" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="3143:3326" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="3391:3457" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="3669:8111" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="3927:4136" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="4383:5687" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="4677:5682" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="5695:7467" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="6322:6473" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="6535:7452" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="6713:7214" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="7501:8101" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="7536:7806" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/Dialog.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+              <folding>
+                <marker date="1471417578000" expanded="false" signature="6:100" ph="..." />
+                <marker date="1471417578000" expanded="true" signature="122:6701" ph="{...}" />
+                <marker date="1471417578000" expanded="false" signature="149:252" ph="..." />
+                <marker date="1471417578000" expanded="true" signature="255:293" ph="/// 对话框 ... " />
+                <marker date="1471417578000" expanded="true" signature="329:6699" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="475:518" ph="/// 是否允许拖动 ... " />
+                <marker date="1471417578000" expanded="true" signature="553:594" ph="/// 内容区域 ... " />
+                <marker date="1471417578000" expanded="true" signature="726:1495" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1514:1937" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1558:1608" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1753:1933" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="1959:2071" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2012:2067" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2094:2157" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2184:2246" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2267:2386" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2450:2489" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2559:3059" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2623:3055" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2673:3050" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2830:2934" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2878:2927" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="2956:3044" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="3085:3173" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="3198:3236" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="3261:3300" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="3406:6686" ph="{...}" />
+                <marker date="1471417578000" expanded="true" signature="4664:4706" ph="/* text.AddComponent&lt;Shadow&gt; (); ... */" />
               </folding>
             </state>
           </provider>
@@ -217,6 +291,7 @@
       <find>Press</find>
       <find>isDown</find>
       <find>isPointerDown</find>
+      <find>sceneStarting</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -238,6 +313,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/Common/Common.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GameFrame/Z_Test/Demo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/Common/AssetBundleLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameFrame/Z_Test/EngineTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/DialogGrid.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/UICommon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/DialogCloseButton.cs" root0="FORCE_HIGHLIGHTING" />
@@ -250,8 +326,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="253" />
-    <option name="y" value="186" />
+    <option name="x" value="2177" />
+    <option name="y" value="140" />
     <option name="width" value="1520" />
     <option name="height" value="858" />
   </component>
@@ -261,15 +337,68 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="GameFrame" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="GameFrame" type="1045f7f1:UnityExplorerNode" />
+              <item name="Frame" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="GameFrame" type="1045f7f1:UnityExplorerNode" />
+              <item name="Frame" type="1045f7f1:UnityExplorerNode" />
+              <item name="Manager" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="GameFrame" type="1045f7f1:UnityExplorerNode" />
+              <item name="Frame" type="1045f7f1:UnityExplorerNode" />
+              <item name="Net" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="GameFrame" type="1045f7f1:UnityExplorerNode" />
+              <item name="Frame" type="1045f7f1:UnityExplorerNode" />
+              <item name="UGUI" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="GameFrame" type="1045f7f1:UnityExplorerNode" />
+              <item name="Plugins" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="GameFrame" type="1045f7f1:UnityExplorerNode" />
+              <item name="Z_Test" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,11 +454,12 @@
       <workItem from="1563763535679" duration="1267000" />
       <workItem from="1563782414285" duration="507000" />
       <workItem from="1563783078798" duration="3103000" />
+      <workItem from="1563854210604" duration="2125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4877000" />
+    <option name="totallyTimeSpent" value="7002000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,9 +471,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="253" y="186" width="1520" height="858" extended-state="0" />
+    <frame x="2177" y="140" width="1520" height="858" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25684932" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26027396" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -452,43 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/Dialog.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2738">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding>
-            <marker date="1471417578000" expanded="false" signature="6:100" ph="..." />
-            <marker date="1471417578000" expanded="true" signature="122:6701" ph="{...}" />
-            <marker date="1471417578000" expanded="false" signature="149:252" ph="..." />
-            <marker date="1471417578000" expanded="true" signature="255:293" ph="/// 对话框 ... " />
-            <marker date="1471417578000" expanded="true" signature="329:6699" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="475:518" ph="/// 是否允许拖动 ... " />
-            <marker date="1471417578000" expanded="true" signature="553:594" ph="/// 内容区域 ... " />
-            <marker date="1471417578000" expanded="true" signature="726:1495" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1514:1937" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1558:1608" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1753:1933" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1959:2071" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2012:2067" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2094:2157" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2184:2246" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2267:2386" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2450:2489" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2559:3059" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2623:3055" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2673:3050" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2830:2934" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2878:2927" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2956:3044" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="3085:3173" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="3198:3236" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="3261:3300" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="3406:6686" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="4664:4706" ph="/* text.AddComponent&lt;Shadow&gt; (); ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/DialogCloseButton.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -573,69 +666,6 @@
             <marker date="1471417578000" expanded="true" signature="5898:5950" ph="{...}" />
             <marker date="1471417578000" expanded="true" signature="6311:6414" ph="{...}" />
             <marker date="1471417578000" expanded="true" signature="6472:6532" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/ListViewLayoutGroup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-810">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding>
-            <marker date="1471417578000" expanded="false" signature="23:207" ph="..." />
-            <marker date="1471417578000" expanded="true" signature="233:8116" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="237:298" ph="/// 列表视图布局 ... " />
-            <marker date="1471417578000" expanded="true" signature="414:8114" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="446:478" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="513:518" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="582:704" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="766:847" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="900:978" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1029:1107" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1707:1794" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1879:1968" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2087:2202" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2129:2198" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2261:3597" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2557:3340" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2927:3134" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="3143:3326" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="3391:3457" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="3669:8111" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="3927:4136" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="4383:5687" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="4677:5682" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="5695:7467" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="6322:6473" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="6535:7452" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="6713:7214" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="7501:8101" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="7536:7806" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/SceneFadeInOut.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="42" column="38" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
-          <folding>
-            <marker date="1471417578000" expanded="false" signature="6:44" ph="..." />
-            <marker date="1471417578000" expanded="true" signature="70:2281" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="74:156" ph="/// 场景淡入淡出 (将此脚本挂在UGUI Canvas 上) Scene fade in out. ... " />
-            <marker date="1471417578000" expanded="true" signature="266:2279" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="497:531" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="549:630" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="661:1341" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1368:1430" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1453:1521" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1544:1612" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1634:1766" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1686:1762" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1786:1992" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1839:1988" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1996:2076" ph="/// 进入场景 ... " />
-            <marker date="1471417578000" expanded="true" signature="2114:2276" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -978,76 +1008,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/UICommon.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="206" column="60" selection-start-line="206" selection-start-column="33" selection-end-line="206" selection-end-column="60" />
-          <folding>
-            <marker date="1471417578000" expanded="false" signature="6:209" ph="..." />
-            <marker date="1471417578000" expanded="true" signature="236:11466" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="241:370" ph="/// 自定义UI公用库, 部分代码来自 Unity 开源代码 （MenuOptions, DefaultControls) ... " />
-            <marker date="1471417578000" expanded="true" signature="394:11463" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="627:672" ph="/// 设置父级对齐方式 ... " />
-            <marker date="1471417578000" expanded="true" signature="749:890" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="894:939" ph="/// 设置子组件层属性 ... " />
-            <marker date="1471417578000" expanded="true" signature="1007:1164" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1168:1287" ph="/// 创建UI对象 ... " />
-            <marker date="1471417578000" expanded="true" signature="1362:1493" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1497:1619" ph="/// 创建根结点UI对象 ... " />
-            <marker date="1471417578000" expanded="true" signature="1694:1840" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1844:1994" ph="/// 创建根结点UI对象 ... " />
-            <marker date="1471417578000" expanded="true" signature="2073:2136" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2140:2301" ph="/// 创建UI Text 控件 ... " />
-            <marker date="1471417578000" expanded="true" signature="2387:2776" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2780:2827" ph="/// 设置默认Text颜色 ... " />
-            <marker date="1471417578000" expanded="true" signature="2880:2913" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="2917:2976" ph="/// 设置默认Transition（状态过渡）颜色 ... " />
-            <marker date="1471417578000" expanded="true" signature="3049:3284" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="3416:3470" ph="/// 放置UI对象到UI层Canvas中 ... " />
-            <marker date="1471417578000" expanded="true" signature="3556:4358" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="3708:3758" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="4362:4406" ph="/// 创建新的UI层 ... " />
-            <marker date="1471417578000" expanded="true" signature="4448:4934" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="4938:5023" ph="/// 创建UI事件系统 ... " />
-            <marker date="1471417578000" expanded="true" signature="5076:5117" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="5121:5233" ph="/// 创建UI事件系统 (在非 UNITY_EDITOR 时不执行任何操作) ... " />
-            <marker date="1471417578000" expanded="true" signature="5305:5813" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="5402:5710" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="5743:5799" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="5817:5862" ph="/// 创建UI事件系统 ... " />
-            <marker date="1471417578000" expanded="true" signature="5927:6026" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="6030:6114" ph="/// 创建或返回一个现存的UI Canvas对象 (在非 UNITY_EDITOR 时返回null) ... " />
-            <marker date="1471417578000" expanded="true" signature="6172:6864" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="6998:9258" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="7652:9110" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="9308:9414" ph="/// 创建 ListView 控件 ... " />
-            <marker date="1471417578000" expanded="true" signature="9516:11441" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Z_Test/Demo.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="47" selection-end-column="1" />
-          <folding>
-            <marker date="1471417578000" expanded="false" signature="6:83" ph="..." />
-            <marker date="1471417578000" expanded="true" signature="119:1293" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="151:169" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="203:276" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="302:681" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="756:1024" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="832:869" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1090:1291" ph="{...}" />
-            <marker date="1471417578000" expanded="true" signature="1180:1206" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/ButtonEx.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-48">
-          <caret line="251" column="4" selection-start-line="251" selection-start-column="4" selection-end-line="257" selection-end-column="9" />
+        <state relative-caret-position="1215">
+          <caret line="257" column="9" lean-forward="true" selection-start-line="257" selection-start-column="9" selection-end-line="257" selection-end-column="9" />
           <folding>
             <marker date="1563763458158" expanded="false" signature="23:190" ph="..." />
             <marker date="1563763458158" expanded="true" signature="217:7589" ph="{...}" />
@@ -1104,6 +1068,188 @@
             <marker date="1563763458158" expanded="true" signature="6561:6791" ph="{...}" />
             <marker date="1563763458158" expanded="true" signature="6662:6734" ph="{...}" />
             <marker date="1563763458158" expanded="true" signature="6902:7573" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Z_Test/Demo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <marker date="1471417578000" expanded="true" signature="6:83" ph="..." />
+            <marker date="1471417578000" expanded="true" signature="119:1293" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="151:169" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="203:276" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="302:681" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="756:1024" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="832:869" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1090:1291" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1180:1206" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Z_Test/EngineTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <marker date="1471417578000" expanded="false" signature="6:61" ph="..." />
+            <marker date="1471417578000" expanded="true" signature="111:672" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="162:236" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="252:270" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="286:577" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="362:424" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="595:670" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/SceneFadeInOut.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <marker date="1471417578000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1471417578000" expanded="true" signature="70:2281" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="74:156" ph="/// 场景淡入淡出 (将此脚本挂在UGUI Canvas 上) Scene fade in out. ... " />
+            <marker date="1471417578000" expanded="true" signature="266:2279" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="497:531" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="549:630" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="661:1341" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1368:1430" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1453:1521" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1544:1612" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1634:1766" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1686:1762" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1786:1992" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1839:1988" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1996:2076" ph="/// 进入场景 ... " />
+            <marker date="1471417578000" expanded="true" signature="2114:2276" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/ListViewLayoutGroup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <marker date="1471417578000" expanded="false" signature="23:207" ph="..." />
+            <marker date="1471417578000" expanded="true" signature="233:8116" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="237:298" ph="/// 列表视图布局 ... " />
+            <marker date="1471417578000" expanded="true" signature="414:8114" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="446:478" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="513:518" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="582:704" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="766:847" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="900:978" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1029:1107" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1707:1794" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1879:1968" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2087:2202" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2129:2198" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2261:3597" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2557:3340" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2927:3134" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="3143:3326" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="3391:3457" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="3669:8111" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="3927:4136" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="4383:5687" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="4677:5682" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="5695:7467" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="6322:6473" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="6535:7452" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="6713:7214" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="7501:8101" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="7536:7806" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/Dialog.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <marker date="1471417578000" expanded="false" signature="6:100" ph="..." />
+            <marker date="1471417578000" expanded="true" signature="122:6701" ph="{...}" />
+            <marker date="1471417578000" expanded="false" signature="149:252" ph="..." />
+            <marker date="1471417578000" expanded="true" signature="255:293" ph="/// 对话框 ... " />
+            <marker date="1471417578000" expanded="true" signature="329:6699" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="475:518" ph="/// 是否允许拖动 ... " />
+            <marker date="1471417578000" expanded="true" signature="553:594" ph="/// 内容区域 ... " />
+            <marker date="1471417578000" expanded="true" signature="726:1495" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1514:1937" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1558:1608" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1753:1933" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1959:2071" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2012:2067" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2094:2157" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2184:2246" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2267:2386" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2450:2489" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2559:3059" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2623:3055" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2673:3050" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2830:2934" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2878:2927" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2956:3044" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="3085:3173" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="3198:3236" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="3261:3300" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="3406:6686" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="4664:4706" ph="/* text.AddComponent&lt;Shadow&gt; (); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GameFrame/Frame/UGUI/UICommon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="39" column="50" lean-forward="true" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+          <folding>
+            <marker date="1471417578000" expanded="false" signature="6:209" ph="..." />
+            <marker date="1471417578000" expanded="true" signature="236:11466" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="241:370" ph="/// 自定义UI公用库, 部分代码来自 Unity 开源代码 （MenuOptions, DefaultControls) ... " />
+            <marker date="1471417578000" expanded="true" signature="394:11463" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="627:672" ph="/// 设置父级对齐方式 ... " />
+            <marker date="1471417578000" expanded="true" signature="749:890" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="894:939" ph="/// 设置子组件层属性 ... " />
+            <marker date="1471417578000" expanded="true" signature="1007:1164" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1168:1287" ph="/// 创建UI对象 ... " />
+            <marker date="1471417578000" expanded="true" signature="1362:1493" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1497:1619" ph="/// 创建根结点UI对象 ... " />
+            <marker date="1471417578000" expanded="true" signature="1694:1840" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="1844:1994" ph="/// 创建根结点UI对象 ... " />
+            <marker date="1471417578000" expanded="true" signature="2073:2136" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2140:2301" ph="/// 创建UI Text 控件 ... " />
+            <marker date="1471417578000" expanded="true" signature="2387:2776" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2780:2827" ph="/// 设置默认Text颜色 ... " />
+            <marker date="1471417578000" expanded="true" signature="2880:2913" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="2917:2976" ph="/// 设置默认Transition（状态过渡）颜色 ... " />
+            <marker date="1471417578000" expanded="true" signature="3049:3284" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="3416:3470" ph="/// 放置UI对象到UI层Canvas中 ... " />
+            <marker date="1471417578000" expanded="true" signature="3556:4358" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="3708:3758" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="4362:4406" ph="/// 创建新的UI层 ... " />
+            <marker date="1471417578000" expanded="true" signature="4448:4934" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="4938:5023" ph="/// 创建UI事件系统 ... " />
+            <marker date="1471417578000" expanded="true" signature="5076:5117" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="5121:5233" ph="/// 创建UI事件系统 (在非 UNITY_EDITOR 时不执行任何操作) ... " />
+            <marker date="1471417578000" expanded="true" signature="5305:5813" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="5402:5710" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="5743:5799" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="5817:5862" ph="/// 创建UI事件系统 ... " />
+            <marker date="1471417578000" expanded="true" signature="5927:6026" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="6030:6114" ph="/// 创建或返回一个现存的UI Canvas对象 (在非 UNITY_EDITOR 时返回null) ... " />
+            <marker date="1471417578000" expanded="true" signature="6172:6864" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="6998:9258" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="7652:9110" ph="{...}" />
+            <marker date="1471417578000" expanded="true" signature="9308:9414" ph="/// 创建 ListView 控件 ... " />
+            <marker date="1471417578000" expanded="true" signature="9516:11441" ph="{...}" />
           </folding>
         </state>
       </provider>

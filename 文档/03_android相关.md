@@ -19,14 +19,15 @@ WyKey
 
 
 **真机调试测试：**
-1. 获取unity remote 和 获取gogle use驱动：
+1. 获取unity remote 和 获取gogle usb驱动：
 
-
+ 
 **Touch类简单介绍：**
 
 **Touch类剩余成员：**
 
 
 **互相调用模式之导出jar包，扩展MainActivity,Java主导**
+
 
 
