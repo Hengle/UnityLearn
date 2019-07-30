@@ -2,266 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adc1dcd7-81ce-4a90-9639-70a107f5c13b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/.idea/.idea.15_WFrameWork2/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/.idea/.idea.15_WFrameWork2/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/.idea/.idea.15_WFrameWork2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/.idea/.idea.15_WFrameWork2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/.idea/.idea.15_WFrameWork2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/.idea/.idea.15_WFrameWork2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/.idea/.idea.15_WFrameWork2/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/.vs/15_WFrameWork2/v16/Server/sqlite3/db.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/.vs/15_WFrameWork2/v16/Server/sqlite3/storage.ide" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/15_WFrameWork2.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assembly-CSharp-Editor.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assembly-CSharp.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/Plugins.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/Plugins/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/Plugins/Editor/JetBrains.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/1.复制文件到剪切板.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/1.复制文件到剪切板/CommonUtilExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/1.复制文件到剪切板/CommonUtilExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/10.框架示例.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/10.框架示例/FrameworkExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/10.框架示例/FrameworkExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/11.MainManager.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/11.MainManager/Game.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/11.MainManager/Game/Game.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/11.MainManager/Game/Game.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/11.MainManager/Game/GameModule.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/11.MainManager/Game/GameModule.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/11.MainManager/Home.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/11.MainManager/Home/Home.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/11.MainManager/Home/Home.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/11.MainManager/Home/HomeModule.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/11.MainManager/Home/HomeModule.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/12.GUIManager.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/12.GUIManager/GUIExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/12.GUIManager/GUIExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/12.GUIManager/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/12.GUIManager/Resources/HomePanel.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/12.GUIManager/Resources/HomePanel.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/13.AudioManager.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/13.AudioManager/AudioExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/13.AudioManager/AudioExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/13.AudioManager/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/13.AudioManager/Resources/coin.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/13.AudioManager/Resources/coin.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/13.AudioManager/Resources/home.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/13.AudioManager/Resources/home.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/14.PoolManager.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/14.PoolManager/PoolExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/14.PoolManager/PoolExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/15.LevelManager.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/15.LevelManager/Level.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/15.LevelManager/Level.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/15.LevelManager/LevelExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/15.LevelManager/LevelExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/16.SingletonExample.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/16.SingletonExample/SingletonExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/16.SingletonExample/SingletonExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/17.MonoSingletonExample.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/17.MonoSingletonExample/MonoSingletonExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/17.MonoSingletonExample/MonoSingletonExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/18.StaticThisExtension.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/18.StaticThisExtension/StaticThisExtension.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/18.StaticThisExtension/StaticThisExtension.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/19.UnloadResources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/19.UnloadResources/UnloadResourcesExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/19.UnloadResources/UnloadResourcesExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/2.MenuItem 复用.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/2.MenuItem 复用/EditorUtilExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/2.MenuItem 复用/EditorUtilExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/20.UnloadPrefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/20.UnloadPrefab/UnloadPrefabExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/20.UnloadPrefab/UnloadPrefabExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/21.ResMgrExample.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/21.ResMgrExample/UIXXXPanel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/21.ResMgrExample/UIXXXPanel.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/22.SimpleRCExample.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/22.SimpleRCExample/SimpleRCExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/22.SimpleRCExample/SimpleRCExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/3.屏幕宽高比判断.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/3.屏幕宽高比判断/ResolutionCheckExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/3.屏幕宽高比判断/ResolutionCheckExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/4.Transform API 简化.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/4.Transform API 简化/TransformSimplifyExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/4.Transform API 简化/TransformSimplifyExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/5.概率函数.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/5.概率函数/MathUtilExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/5.概率函数/MathUtilExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/6.GameObject API 简化.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/6.GameObject API 简化/GameObjectSimplifyExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/6.GameObject API 简化/GameObjectSimplifyExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/7.Hide 脚本.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/7.Hide 脚本/HideExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/7.Hide 脚本/HideExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/8.定时功能.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/8.定时功能/DelayWithCoroutine.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/8.定时功能/DelayWithCoroutine.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/9.简易消息机制.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/9.简易消息机制/MsgDispatcherExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Example/9.简易消息机制/MsgDispatcherExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Editor/Exporter.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Editor/Exporter.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Extension.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Extension/GameObjectExtension.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Extension/GameObjectExtension.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Extension/TransformExtension.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Extension/TransformExtension.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Manager.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Manager/AudioManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Manager/AudioManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Manager/GUIManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Manager/GUIManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Manager/LevelManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Manager/LevelManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Manager/MainManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Manager/MainManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/MonoBehaviourSimplify.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/MonoBehaviourSimplify.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/ResKit.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/ResKit/Res.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/ResKit/Res.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/ResKit/ResLoader.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/ResKit/ResLoader.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Resources/UIRoot.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Resources/UIRoot.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/CommonUtil.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/CommonUtil.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/EditorUtil.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/EditorUtil.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/Hide.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/Hide.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/MathUtil.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/MathUtil.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/MonoSingleton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/MonoSingleton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/MsgDispatcher.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/MsgDispatcher.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/ResolutionCheck.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/ResolutionCheck.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/SimpleObjectPool.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/SimpleObjectPool.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/SimpleRC.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/SimpleRC.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/Singleton.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Framework/Util/Singleton.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Test.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Test/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Test/Editor/V0_0_4.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/Test/Editor/V0_0_4.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/版本记录.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/QFramework/版本记录.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/Packages/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/AudioManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/EditorSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/InputManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/NetworkManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/PresetManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/QualitySettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/TagManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/TimeManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../15_WFrameWork2/ProjectSettings/VFXManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/.idea/.idea.16_资源卸载测试/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/.idea/.idea.16_资源卸载测试/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/.idea/.idea.16_资源卸载测试/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/.idea/.idea.16_资源卸载测试/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/.idea/.idea.16_资源卸载测试/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/.idea/.idea.16_资源卸载测试/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/.idea/.idea.16_资源卸载测试/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/.vs/16_资源卸载测试/v16/Server/sqlite3/db.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/.vs/16_资源卸载测试/v16/Server/sqlite3/storage.ide" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/16_资源卸载测试.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assembly-CSharp.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo1.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo1/AudioManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo1/AudioManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo1/Demo1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo1/Demo1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo1/UnloadResourcesExample.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo1/UnloadResourcesExample.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo2.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo2/Demo2.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo2/Demo2.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo2/UnloadPrefabTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo2/UnloadPrefabTest.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo3/Demo3.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo3/Demo3.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo3/Demo3.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo3/Demo3.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo3/Demo3Panel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo3/Demo3Panel.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo4.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo4/Res.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo4/Res.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo4/ResLoader.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Demo4/ResLoader.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Plugins.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Plugins/Editor.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Plugins/Editor/JetBrains.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/Images.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/Images/test_01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/Images/test_01.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/Images/test_02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/Images/test_02.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/Prefabs/Panel3.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/Prefabs/Panel3.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/Prefabs/RawImage.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/Prefabs/RawImage.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/voice.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/voice/voice_01.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/voice/voice_01.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/voice/voice_02.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/voice/voice_02.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/voice/voice_03.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Resources/voice/voice_03.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/Packages/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/AudioManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/EditorSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/InputManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/NetworkManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/PresetManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/QualitySettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/TagManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/TimeManager.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../16_资源卸载测试/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.15_FrameWork2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.15_FrameWork2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -275,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/QFramework/Framework/ResKit/ResLoader.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
               <folding>
                 <marker date="1548381743000" expanded="false" signature="6:82" ph="..." />
                 <marker date="1548381743000" expanded="true" signature="104:3037" ph="{...}" />
@@ -310,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/QFramework/Framework/ResKit/ResMgr.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="65" lean-forward="true" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+            <state relative-caret-position="450">
+              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
               <folding>
                 <marker date="1552984346000" expanded="false" signature="6:52" ph="..." />
                 <marker date="1552984346000" expanded="true" signature="74:1145" ph="{...}" />
@@ -339,18 +82,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/QFramework/Framework/ResKit/ResLoader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/QFramework/Framework/ResKit/ResMgr.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/.idea.15_FrameWork2/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/.idea.15_FrameWork2/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/.idea.15_FrameWork2/.idea/indexLayout.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2075" />
-    <option name="y" value="108" />
+    <option name="x" value="2117" />
+    <option name="y" value="61" />
     <option name="width" value="1520" />
     <option name="height" value="858" />
   </component>
@@ -447,12 +181,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564472855755</updated>
-      <workItem from="1564472859502" duration="181000" />
+      <workItem from="1564472859502" duration="821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181000" />
+    <option name="totallyTimeSpent" value="821000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -464,7 +198,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2075" y="108" width="1520" height="858" extended-state="0" />
+    <frame x="2117" y="61" width="1520" height="858" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -516,7 +250,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/QFramework/Framework/ResKit/ResLoader.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
           <folding>
             <marker date="1548381743000" expanded="false" signature="6:82" ph="..." />
             <marker date="1548381743000" expanded="true" signature="104:3037" ph="{...}" />
@@ -549,8 +283,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/QFramework/Framework/ResKit/ResMgr.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="65" lean-forward="true" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+        <state relative-caret-position="450">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
           <folding>
             <marker date="1552984346000" expanded="false" signature="6:52" ph="..." />
             <marker date="1552984346000" expanded="true" signature="74:1145" ph="{...}" />
