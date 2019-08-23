@@ -61,6 +61,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Test.cs" />
+    <Compile Include="Assets\Scripts\test2.cs" />
+    <Compile Include="Assets\Scripts\test2_item.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>E:/UnityLearn/11_UGUI整体解决方案/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

@@ -60,8 +60,8 @@ namespace GameFrame {
 			AndroidCommon.LogW(message);
 			#else
 			Debug.LogWarning(message);
-			#endif
-		}
+            #endif
+        }
 
 		private static void SendLog(string message) {
 			#if REMOTELOG
