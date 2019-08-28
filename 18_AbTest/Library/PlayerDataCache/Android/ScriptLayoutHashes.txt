@@ -1,0 +1,6 @@
+Android
+PlayerPath?
+E:/UnityLearn/18_AbTest/Assets/StreamingAssets/Scenes/TestScene.assetbundle
+SceneListBegin?
+Assets/AssetsPackage/Scenes/TestScene.unity
+SceneListEnd?
